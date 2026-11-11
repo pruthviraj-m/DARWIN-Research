@@ -1,0 +1,5 @@
+model,tn,fp,fn,tp
+Extra Trees,75,10,7,82
+Random Forest,77,8,8,81
+SVM,71,14,11,78
+TabPFN,79,6,10,79

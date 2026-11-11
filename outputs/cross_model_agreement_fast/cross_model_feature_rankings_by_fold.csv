@@ -1,0 +1,2001 @@
+Repeat,Fold,Model,Rank,Feature,Permutation_Importance
+1,1,TabPFN,1,pressure_mean7,0.05882352941176472
+1,1,TabPFN,2,air_time15,0.02941176470588236
+1,1,TabPFN,3,mean_gmrt7,0.02941176470588236
+1,1,TabPFN,4,disp_index23,0.02941176470588236
+1,1,TabPFN,5,air_time6,0.02941176470588236
+1,1,TabPFN,6,gmrt_in_air7,0.02941176470588236
+1,1,TabPFN,7,pressure_var5,0.02941176470588236
+1,1,TabPFN,8,air_time23,0.02941176470588236
+1,1,TabPFN,9,disp_index22,0.02941176470588236
+1,1,TabPFN,10,air_time24,0.02941176470588236
+1,1,TabPFN,11,gmrt_in_air23,0.02941176470588236
+1,1,TabPFN,12,pressure_mean8,0.02941176470588236
+1,1,TabPFN,13,paper_time7,0.02941176470588236
+1,1,TabPFN,14,air_time2,0.02941176470588236
+1,1,TabPFN,15,paper_time6,0.02941176470588236
+1,1,TabPFN,16,gmrt_on_paper10,0.02941176470588236
+1,1,TabPFN,17,gmrt_on_paper7,0.02941176470588236
+1,1,TabPFN,18,mean_speed_in_air23,0.02941176470588236
+1,1,TabPFN,19,air_time3,0.02941176470588236
+1,1,TabPFN,20,gmrt_on_paper17,0.02941176470588236
+1,1,TabPFN,21,air_time7,0.02941176470588236
+1,1,TabPFN,22,mean_gmrt23,0.02941176470588236
+1,1,TabPFN,23,max_y_extension25,0.02941176470588236
+1,1,TabPFN,24,paper_time10,0.02941176470588236
+1,1,TabPFN,25,mean_speed_in_air25,0.02941176470588236
+1,1,TabPFN,26,pressure_mean10,0.02941176470588236
+1,1,TabPFN,27,air_time16,0.0
+1,1,TabPFN,28,pressure_var19,0.0
+1,1,TabPFN,29,paper_time9,0.0
+1,1,TabPFN,30,num_of_pendown19,0.0
+1,1,TabPFN,31,max_x_extension25,0.0
+1,1,TabPFN,32,paper_time23,0.0
+1,1,TabPFN,33,air_time22,0.0
+1,1,TabPFN,34,pressure_mean9,0.0
+1,1,TabPFN,35,mean_speed_in_air7,0.0
+1,1,TabPFN,36,paper_time15,0.0
+1,1,TabPFN,37,mean_jerk_in_air17,0.0
+1,1,TabPFN,38,air_time13,0.0
+1,1,TabPFN,39,mean_gmrt17,0.0
+1,1,TabPFN,40,mean_speed_in_air17,0.0
+1,1,TabPFN,41,pressure_var4,0.0
+1,1,TabPFN,42,paper_time8,0.0
+1,1,TabPFN,43,mean_acc_in_air17,0.0
+1,1,TabPFN,44,num_of_pendown9,0.0
+1,1,TabPFN,45,air_time9,0.0
+1,1,TabPFN,46,air_time5,0.0
+1,1,TabPFN,47,mean_acc_in_air7,0.0
+1,1,TabPFN,48,mean_speed_on_paper11,0.0
+1,1,TabPFN,49,gmrt_in_air17,-0.02941176470588236
+1,1,TabPFN,50,paper_time22,-0.02941176470588236
+1,1,Extra Trees,1,pressure_mean7,0.02941176470588236
+1,1,Extra Trees,2,air_time16,0.0016339869281045694
+1,1,Extra Trees,3,air_time13,0.0016339869281045694
+1,1,Extra Trees,4,gmrt_in_air23,0.0016339869281045694
+1,1,Extra Trees,5,pressure_var19,0.0
+1,1,Extra Trees,6,mean_gmrt7,0.0
+1,1,Extra Trees,7,paper_time9,0.0
+1,1,Extra Trees,8,num_of_pendown19,0.0
+1,1,Extra Trees,9,air_time6,0.0
+1,1,Extra Trees,10,max_x_extension25,0.0
+1,1,Extra Trees,11,paper_time23,0.0
+1,1,Extra Trees,12,air_time22,0.0
+1,1,Extra Trees,13,gmrt_in_air7,0.0
+1,1,Extra Trees,14,pressure_var5,0.0
+1,1,Extra Trees,15,gmrt_in_air17,0.0
+1,1,Extra Trees,16,pressure_mean9,0.0
+1,1,Extra Trees,17,disp_index22,0.0
+1,1,Extra Trees,18,mean_speed_in_air7,0.0
+1,1,Extra Trees,19,paper_time15,0.0
+1,1,Extra Trees,20,mean_gmrt17,0.0
+1,1,Extra Trees,21,air_time24,0.0
+1,1,Extra Trees,22,pressure_var4,0.0
+1,1,Extra Trees,23,paper_time8,0.0
+1,1,Extra Trees,24,pressure_mean8,0.0
+1,1,Extra Trees,25,paper_time7,0.0
+1,1,Extra Trees,26,air_time2,0.0
+1,1,Extra Trees,27,paper_time6,0.0
+1,1,Extra Trees,28,num_of_pendown9,0.0
+1,1,Extra Trees,29,paper_time22,0.0
+1,1,Extra Trees,30,air_time9,0.0
+1,1,Extra Trees,31,gmrt_on_paper10,0.0
+1,1,Extra Trees,32,gmrt_on_paper7,0.0
+1,1,Extra Trees,33,air_time5,0.0
+1,1,Extra Trees,34,air_time3,0.0
+1,1,Extra Trees,35,gmrt_on_paper17,0.0
+1,1,Extra Trees,36,air_time7,0.0
+1,1,Extra Trees,37,mean_gmrt23,0.0
+1,1,Extra Trees,38,max_y_extension25,0.0
+1,1,Extra Trees,39,paper_time10,0.0
+1,1,Extra Trees,40,mean_speed_in_air25,0.0
+1,1,Extra Trees,41,pressure_mean10,0.0
+1,1,Extra Trees,42,mean_acc_in_air7,0.0
+1,1,Extra Trees,43,mean_speed_on_paper11,0.0
+1,1,Extra Trees,44,air_time15,-0.02777777777777779
+1,1,Extra Trees,45,disp_index23,-0.02777777777777779
+1,1,Extra Trees,46,air_time23,-0.02777777777777779
+1,1,Extra Trees,47,mean_speed_in_air23,-0.02777777777777779
+1,1,Extra Trees,48,mean_jerk_in_air17,-0.02941176470588236
+1,1,Extra Trees,49,mean_speed_in_air17,-0.02941176470588236
+1,1,Extra Trees,50,mean_acc_in_air17,-0.02941176470588236
+1,1,Random Forest,1,mean_gmrt7,0.0
+1,1,Random Forest,2,disp_index23,0.0
+1,1,Random Forest,3,paper_time9,0.0
+1,1,Random Forest,4,num_of_pendown19,0.0
+1,1,Random Forest,5,air_time6,0.0
+1,1,Random Forest,6,max_x_extension25,0.0
+1,1,Random Forest,7,air_time22,0.0
+1,1,Random Forest,8,gmrt_in_air7,0.0
+1,1,Random Forest,9,pressure_var5,0.0
+1,1,Random Forest,10,gmrt_in_air17,0.0
+1,1,Random Forest,11,pressure_mean9,0.0
+1,1,Random Forest,12,disp_index22,0.0
+1,1,Random Forest,13,mean_speed_in_air7,0.0
+1,1,Random Forest,14,paper_time15,0.0
+1,1,Random Forest,15,mean_jerk_in_air17,0.0
+1,1,Random Forest,16,air_time13,0.0
+1,1,Random Forest,17,mean_gmrt17,0.0
+1,1,Random Forest,18,mean_speed_in_air17,0.0
+1,1,Random Forest,19,air_time24,0.0
+1,1,Random Forest,20,pressure_var4,0.0
+1,1,Random Forest,21,gmrt_in_air23,0.0
+1,1,Random Forest,22,paper_time8,0.0
+1,1,Random Forest,23,pressure_mean8,0.0
+1,1,Random Forest,24,paper_time7,0.0
+1,1,Random Forest,25,air_time2,0.0
+1,1,Random Forest,26,mean_acc_in_air17,0.0
+1,1,Random Forest,27,paper_time6,0.0
+1,1,Random Forest,28,pressure_mean7,0.0
+1,1,Random Forest,29,num_of_pendown9,0.0
+1,1,Random Forest,30,paper_time22,0.0
+1,1,Random Forest,31,air_time9,0.0
+1,1,Random Forest,32,gmrt_on_paper10,0.0
+1,1,Random Forest,33,gmrt_on_paper7,0.0
+1,1,Random Forest,34,mean_speed_in_air23,0.0
+1,1,Random Forest,35,air_time5,0.0
+1,1,Random Forest,36,air_time3,0.0
+1,1,Random Forest,37,gmrt_on_paper17,0.0
+1,1,Random Forest,38,air_time7,0.0
+1,1,Random Forest,39,mean_gmrt23,0.0
+1,1,Random Forest,40,max_y_extension25,0.0
+1,1,Random Forest,41,paper_time10,0.0
+1,1,Random Forest,42,mean_speed_in_air25,0.0
+1,1,Random Forest,43,pressure_mean10,0.0
+1,1,Random Forest,44,mean_acc_in_air7,0.0
+1,1,Random Forest,45,mean_speed_on_paper11,0.0
+1,1,Random Forest,46,air_time16,-0.02777777777777779
+1,1,Random Forest,47,paper_time23,-0.02777777777777779
+1,1,Random Forest,48,air_time23,-0.02777777777777779
+1,1,Random Forest,49,pressure_var19,-0.02941176470588236
+1,1,Random Forest,50,air_time15,-0.05718954248366015
+1,1,SVM,1,pressure_mean7,0.05882352941176461
+1,1,SVM,2,air_time16,0.03104575163398693
+1,1,SVM,3,paper_time9,0.02941176470588236
+1,1,SVM,4,num_of_pendown19,0.02941176470588236
+1,1,SVM,5,air_time6,0.02941176470588236
+1,1,SVM,6,air_time22,0.02941176470588236
+1,1,SVM,7,pressure_var4,0.02941176470588236
+1,1,SVM,8,gmrt_on_paper7,0.02941176470588236
+1,1,SVM,9,air_time3,0.02941176470588236
+1,1,SVM,10,mean_gmrt23,0.02941176470588236
+1,1,SVM,11,max_x_extension25,0.0016339869281045694
+1,1,SVM,12,gmrt_in_air7,0.0016339869281045694
+1,1,SVM,13,air_time23,0.0016339869281045694
+1,1,SVM,14,mean_speed_in_air7,0.0016339869281045694
+1,1,SVM,15,gmrt_in_air23,0.0016339869281045694
+1,1,SVM,16,gmrt_on_paper17,0.0016339869281045694
+1,1,SVM,17,max_y_extension25,0.0016339869281045694
+1,1,SVM,18,mean_acc_in_air7,0.0016339869281045694
+1,1,SVM,19,pressure_var19,0.0
+1,1,SVM,20,mean_gmrt7,0.0
+1,1,SVM,21,disp_index23,0.0
+1,1,SVM,22,paper_time23,0.0
+1,1,SVM,23,pressure_var5,0.0
+1,1,SVM,24,gmrt_in_air17,0.0
+1,1,SVM,25,pressure_mean9,0.0
+1,1,SVM,26,disp_index22,0.0
+1,1,SVM,27,mean_jerk_in_air17,0.0
+1,1,SVM,28,mean_gmrt17,0.0
+1,1,SVM,29,mean_speed_in_air17,0.0
+1,1,SVM,30,air_time24,0.0
+1,1,SVM,31,paper_time8,0.0
+1,1,SVM,32,pressure_mean8,0.0
+1,1,SVM,33,paper_time7,0.0
+1,1,SVM,34,air_time2,0.0
+1,1,SVM,35,mean_acc_in_air17,0.0
+1,1,SVM,36,paper_time6,0.0
+1,1,SVM,37,num_of_pendown9,0.0
+1,1,SVM,38,paper_time22,0.0
+1,1,SVM,39,air_time9,0.0
+1,1,SVM,40,air_time5,0.0
+1,1,SVM,41,air_time7,0.0
+1,1,SVM,42,mean_speed_in_air25,0.0
+1,1,SVM,43,pressure_mean10,0.0
+1,1,SVM,44,mean_speed_on_paper11,0.0
+1,1,SVM,45,air_time15,-0.02777777777777779
+1,1,SVM,46,paper_time15,-0.02777777777777779
+1,1,SVM,47,air_time13,-0.02777777777777779
+1,1,SVM,48,mean_speed_in_air23,-0.02777777777777779
+1,1,SVM,49,paper_time10,-0.02777777777777779
+1,1,SVM,50,gmrt_on_paper10,-0.02941176470588236
+1,2,TabPFN,1,pressure_var19,0.02941176470588236
+1,2,TabPFN,2,disp_index23,0.02941176470588236
+1,2,TabPFN,3,paper_time23,0.02777777777777779
+1,2,TabPFN,4,pressure_mean9,0.02777777777777779
+1,2,TabPFN,5,air_time24,0.02777777777777779
+1,2,TabPFN,6,paper_time7,0.02777777777777779
+1,2,TabPFN,7,gmrt_on_paper7,0.02777777777777779
+1,2,TabPFN,8,air_time7,0.02777777777777779
+1,2,TabPFN,9,mean_speed_in_air25,0.02777777777777779
+1,2,TabPFN,10,air_time16,0.0
+1,2,TabPFN,11,air_time15,0.0
+1,2,TabPFN,12,mean_gmrt7,0.0
+1,2,TabPFN,13,paper_time9,0.0
+1,2,TabPFN,14,num_of_pendown19,0.0
+1,2,TabPFN,15,max_x_extension25,0.0
+1,2,TabPFN,16,gmrt_in_air7,0.0
+1,2,TabPFN,17,gmrt_in_air17,0.0
+1,2,TabPFN,18,disp_index22,0.0
+1,2,TabPFN,19,mean_speed_in_air7,0.0
+1,2,TabPFN,20,paper_time15,0.0
+1,2,TabPFN,21,air_time13,0.0
+1,2,TabPFN,22,mean_gmrt17,0.0
+1,2,TabPFN,23,mean_speed_in_air17,0.0
+1,2,TabPFN,24,gmrt_in_air23,0.0
+1,2,TabPFN,25,paper_time8,0.0
+1,2,TabPFN,26,pressure_mean8,0.0
+1,2,TabPFN,27,air_time2,0.0
+1,2,TabPFN,28,paper_time6,0.0
+1,2,TabPFN,29,pressure_mean7,0.0
+1,2,TabPFN,30,num_of_pendown9,0.0
+1,2,TabPFN,31,paper_time22,0.0
+1,2,TabPFN,32,mean_speed_in_air23,0.0
+1,2,TabPFN,33,air_time5,0.0
+1,2,TabPFN,34,air_time3,0.0
+1,2,TabPFN,35,gmrt_on_paper17,0.0
+1,2,TabPFN,36,mean_gmrt23,0.0
+1,2,TabPFN,37,max_y_extension25,0.0
+1,2,TabPFN,38,paper_time10,0.0
+1,2,TabPFN,39,pressure_mean10,0.0
+1,2,TabPFN,40,mean_acc_in_air7,0.0
+1,2,TabPFN,41,mean_speed_on_paper11,0.0
+1,2,TabPFN,42,pressure_var5,-0.0016339869281045694
+1,2,TabPFN,43,air_time6,-0.02941176470588236
+1,2,TabPFN,44,air_time22,-0.02941176470588236
+1,2,TabPFN,45,air_time23,-0.02941176470588236
+1,2,TabPFN,46,mean_jerk_in_air17,-0.02941176470588236
+1,2,TabPFN,47,pressure_var4,-0.02941176470588236
+1,2,TabPFN,48,mean_acc_in_air17,-0.02941176470588236
+1,2,TabPFN,49,air_time9,-0.02941176470588236
+1,2,TabPFN,50,gmrt_on_paper10,-0.02941176470588236
+1,2,Extra Trees,1,air_time16,0.0
+1,2,Extra Trees,2,air_time15,0.0
+1,2,Extra Trees,3,mean_gmrt7,0.0
+1,2,Extra Trees,4,disp_index23,0.0
+1,2,Extra Trees,5,paper_time9,0.0
+1,2,Extra Trees,6,num_of_pendown19,0.0
+1,2,Extra Trees,7,air_time6,0.0
+1,2,Extra Trees,8,max_x_extension25,0.0
+1,2,Extra Trees,9,paper_time23,0.0
+1,2,Extra Trees,10,air_time22,0.0
+1,2,Extra Trees,11,gmrt_in_air7,0.0
+1,2,Extra Trees,12,pressure_var5,0.0
+1,2,Extra Trees,13,pressure_mean9,0.0
+1,2,Extra Trees,14,air_time23,0.0
+1,2,Extra Trees,15,disp_index22,0.0
+1,2,Extra Trees,16,mean_speed_in_air7,0.0
+1,2,Extra Trees,17,paper_time15,0.0
+1,2,Extra Trees,18,air_time13,0.0
+1,2,Extra Trees,19,air_time24,0.0
+1,2,Extra Trees,20,pressure_var4,0.0
+1,2,Extra Trees,21,gmrt_in_air23,0.0
+1,2,Extra Trees,22,paper_time8,0.0
+1,2,Extra Trees,23,pressure_mean8,0.0
+1,2,Extra Trees,24,paper_time7,0.0
+1,2,Extra Trees,25,air_time2,0.0
+1,2,Extra Trees,26,paper_time6,0.0
+1,2,Extra Trees,27,pressure_mean7,0.0
+1,2,Extra Trees,28,num_of_pendown9,0.0
+1,2,Extra Trees,29,paper_time22,0.0
+1,2,Extra Trees,30,air_time9,0.0
+1,2,Extra Trees,31,gmrt_on_paper10,0.0
+1,2,Extra Trees,32,gmrt_on_paper7,0.0
+1,2,Extra Trees,33,mean_speed_in_air23,0.0
+1,2,Extra Trees,34,air_time5,0.0
+1,2,Extra Trees,35,air_time3,0.0
+1,2,Extra Trees,36,gmrt_on_paper17,0.0
+1,2,Extra Trees,37,air_time7,0.0
+1,2,Extra Trees,38,mean_gmrt23,0.0
+1,2,Extra Trees,39,max_y_extension25,0.0
+1,2,Extra Trees,40,paper_time10,0.0
+1,2,Extra Trees,41,mean_speed_in_air25,0.0
+1,2,Extra Trees,42,pressure_mean10,0.0
+1,2,Extra Trees,43,mean_acc_in_air7,0.0
+1,2,Extra Trees,44,mean_speed_on_paper11,0.0
+1,2,Extra Trees,45,pressure_var19,-0.02941176470588236
+1,2,Extra Trees,46,gmrt_in_air17,-0.02941176470588236
+1,2,Extra Trees,47,mean_jerk_in_air17,-0.02941176470588236
+1,2,Extra Trees,48,mean_gmrt17,-0.02941176470588236
+1,2,Extra Trees,49,mean_speed_in_air17,-0.02941176470588236
+1,2,Extra Trees,50,mean_acc_in_air17,-0.02941176470588236
+1,2,Random Forest,1,pressure_var19,0.02941176470588236
+1,2,Random Forest,2,air_time6,0.02941176470588236
+1,2,Random Forest,3,gmrt_in_air17,0.02941176470588236
+1,2,Random Forest,4,pressure_var5,0.02777777777777779
+1,2,Random Forest,5,air_time16,0.0
+1,2,Random Forest,6,air_time15,0.0
+1,2,Random Forest,7,mean_gmrt7,0.0
+1,2,Random Forest,8,disp_index23,0.0
+1,2,Random Forest,9,paper_time9,0.0
+1,2,Random Forest,10,num_of_pendown19,0.0
+1,2,Random Forest,11,max_x_extension25,0.0
+1,2,Random Forest,12,paper_time23,0.0
+1,2,Random Forest,13,air_time22,0.0
+1,2,Random Forest,14,gmrt_in_air7,0.0
+1,2,Random Forest,15,pressure_mean9,0.0
+1,2,Random Forest,16,air_time23,0.0
+1,2,Random Forest,17,disp_index22,0.0
+1,2,Random Forest,18,mean_speed_in_air7,0.0
+1,2,Random Forest,19,paper_time15,0.0
+1,2,Random Forest,20,mean_jerk_in_air17,0.0
+1,2,Random Forest,21,air_time13,0.0
+1,2,Random Forest,22,mean_gmrt17,0.0
+1,2,Random Forest,23,mean_speed_in_air17,0.0
+1,2,Random Forest,24,air_time24,0.0
+1,2,Random Forest,25,pressure_var4,0.0
+1,2,Random Forest,26,gmrt_in_air23,0.0
+1,2,Random Forest,27,paper_time8,0.0
+1,2,Random Forest,28,pressure_mean8,0.0
+1,2,Random Forest,29,paper_time7,0.0
+1,2,Random Forest,30,air_time2,0.0
+1,2,Random Forest,31,mean_acc_in_air17,0.0
+1,2,Random Forest,32,paper_time6,0.0
+1,2,Random Forest,33,pressure_mean7,0.0
+1,2,Random Forest,34,num_of_pendown9,0.0
+1,2,Random Forest,35,paper_time22,0.0
+1,2,Random Forest,36,air_time9,0.0
+1,2,Random Forest,37,gmrt_on_paper10,0.0
+1,2,Random Forest,38,gmrt_on_paper7,0.0
+1,2,Random Forest,39,mean_speed_in_air23,0.0
+1,2,Random Forest,40,air_time5,0.0
+1,2,Random Forest,41,air_time3,0.0
+1,2,Random Forest,42,gmrt_on_paper17,0.0
+1,2,Random Forest,43,air_time7,0.0
+1,2,Random Forest,44,mean_gmrt23,0.0
+1,2,Random Forest,45,max_y_extension25,0.0
+1,2,Random Forest,46,paper_time10,0.0
+1,2,Random Forest,47,mean_speed_in_air25,0.0
+1,2,Random Forest,48,pressure_mean10,0.0
+1,2,Random Forest,49,mean_acc_in_air7,0.0
+1,2,Random Forest,50,mean_speed_on_paper11,0.0
+1,2,SVM,1,pressure_var19,0.02941176470588236
+1,2,SVM,2,paper_time9,0.02941176470588236
+1,2,SVM,3,pressure_mean9,0.02941176470588236
+1,2,SVM,4,pressure_var4,0.02941176470588236
+1,2,SVM,5,max_y_extension25,0.02941176470588236
+1,2,SVM,6,pressure_mean10,0.02941176470588236
+1,2,SVM,7,air_time16,0.0
+1,2,SVM,8,air_time15,0.0
+1,2,SVM,9,mean_gmrt7,0.0
+1,2,SVM,10,disp_index23,0.0
+1,2,SVM,11,num_of_pendown19,0.0
+1,2,SVM,12,air_time6,0.0
+1,2,SVM,13,max_x_extension25,0.0
+1,2,SVM,14,paper_time23,0.0
+1,2,SVM,15,air_time22,0.0
+1,2,SVM,16,gmrt_in_air7,0.0
+1,2,SVM,17,pressure_var5,0.0
+1,2,SVM,18,gmrt_in_air17,0.0
+1,2,SVM,19,air_time23,0.0
+1,2,SVM,20,disp_index22,0.0
+1,2,SVM,21,mean_speed_in_air7,0.0
+1,2,SVM,22,paper_time15,0.0
+1,2,SVM,23,mean_jerk_in_air17,0.0
+1,2,SVM,24,air_time13,0.0
+1,2,SVM,25,mean_gmrt17,0.0
+1,2,SVM,26,mean_speed_in_air17,0.0
+1,2,SVM,27,air_time24,0.0
+1,2,SVM,28,gmrt_in_air23,0.0
+1,2,SVM,29,paper_time8,0.0
+1,2,SVM,30,pressure_mean8,0.0
+1,2,SVM,31,paper_time7,0.0
+1,2,SVM,32,air_time2,0.0
+1,2,SVM,33,mean_acc_in_air17,0.0
+1,2,SVM,34,paper_time6,0.0
+1,2,SVM,35,pressure_mean7,0.0
+1,2,SVM,36,num_of_pendown9,0.0
+1,2,SVM,37,paper_time22,0.0
+1,2,SVM,38,air_time9,0.0
+1,2,SVM,39,gmrt_on_paper10,0.0
+1,2,SVM,40,gmrt_on_paper7,0.0
+1,2,SVM,41,mean_speed_in_air23,0.0
+1,2,SVM,42,air_time5,0.0
+1,2,SVM,43,air_time3,0.0
+1,2,SVM,44,gmrt_on_paper17,0.0
+1,2,SVM,45,air_time7,0.0
+1,2,SVM,46,mean_gmrt23,0.0
+1,2,SVM,47,paper_time10,0.0
+1,2,SVM,48,mean_speed_in_air25,0.0
+1,2,SVM,49,mean_acc_in_air7,0.0
+1,2,SVM,50,mean_speed_on_paper11,0.0
+1,3,TabPFN,1,paper_time9,0.05555555555555558
+1,3,TabPFN,2,air_time23,0.02941176470588225
+1,3,TabPFN,3,air_time16,0.02777777777777768
+1,3,TabPFN,4,air_time15,0.02777777777777768
+1,3,TabPFN,5,pressure_var19,0.02777777777777768
+1,3,TabPFN,6,disp_index23,0.02777777777777768
+1,3,TabPFN,7,num_of_pendown19,0.02777777777777768
+1,3,TabPFN,8,gmrt_in_air7,0.02777777777777768
+1,3,TabPFN,9,disp_index22,0.02777777777777768
+1,3,TabPFN,10,mean_speed_in_air7,0.02777777777777768
+1,3,TabPFN,11,mean_jerk_in_air17,0.02777777777777768
+1,3,TabPFN,12,mean_speed_in_air17,0.02777777777777768
+1,3,TabPFN,13,air_time24,0.02777777777777768
+1,3,TabPFN,14,paper_time8,0.02777777777777768
+1,3,TabPFN,15,paper_time7,0.02777777777777768
+1,3,TabPFN,16,mean_acc_in_air17,0.02777777777777768
+1,3,TabPFN,17,paper_time6,0.02777777777777768
+1,3,TabPFN,18,pressure_mean7,0.02777777777777768
+1,3,TabPFN,19,air_time9,0.02777777777777768
+1,3,TabPFN,20,gmrt_on_paper10,0.02777777777777768
+1,3,TabPFN,21,gmrt_on_paper7,0.02777777777777768
+1,3,TabPFN,22,air_time3,0.02777777777777768
+1,3,TabPFN,23,air_time7,0.02777777777777768
+1,3,TabPFN,24,max_y_extension25,0.02777777777777768
+1,3,TabPFN,25,paper_time10,0.02777777777777768
+1,3,TabPFN,26,air_time22,0.0016339869281045694
+1,3,TabPFN,27,air_time6,0.0
+1,3,TabPFN,28,max_x_extension25,0.0
+1,3,TabPFN,29,paper_time23,0.0
+1,3,TabPFN,30,pressure_var5,0.0
+1,3,TabPFN,31,gmrt_in_air17,0.0
+1,3,TabPFN,32,pressure_mean9,0.0
+1,3,TabPFN,33,paper_time15,0.0
+1,3,TabPFN,34,air_time13,0.0
+1,3,TabPFN,35,mean_gmrt17,0.0
+1,3,TabPFN,36,pressure_mean8,0.0
+1,3,TabPFN,37,air_time2,0.0
+1,3,TabPFN,38,num_of_pendown9,0.0
+1,3,TabPFN,39,paper_time22,0.0
+1,3,TabPFN,40,air_time5,0.0
+1,3,TabPFN,41,gmrt_on_paper17,0.0
+1,3,TabPFN,42,mean_gmrt23,0.0
+1,3,TabPFN,43,mean_speed_in_air25,0.0
+1,3,TabPFN,44,pressure_mean10,0.0
+1,3,TabPFN,45,mean_acc_in_air7,0.0
+1,3,TabPFN,46,mean_speed_on_paper11,0.0
+1,3,TabPFN,47,mean_gmrt7,-0.02777777777777779
+1,3,TabPFN,48,pressure_var4,-0.02777777777777779
+1,3,TabPFN,49,gmrt_in_air23,-0.02777777777777779
+1,3,TabPFN,50,mean_speed_in_air23,-0.02777777777777779
+1,3,Extra Trees,1,air_time15,0.05718954248366015
+1,3,Extra Trees,2,gmrt_in_air17,0.05555555555555558
+1,3,Extra Trees,3,mean_speed_in_air7,0.05555555555555558
+1,3,Extra Trees,4,mean_jerk_in_air17,0.05555555555555558
+1,3,Extra Trees,5,mean_gmrt17,0.05555555555555558
+1,3,Extra Trees,6,mean_speed_in_air17,0.05555555555555558
+1,3,Extra Trees,7,gmrt_on_paper17,0.05555555555555558
+1,3,Extra Trees,8,air_time16,0.0277777777777779
+1,3,Extra Trees,9,mean_gmrt7,0.0277777777777779
+1,3,Extra Trees,10,disp_index23,0.0277777777777779
+1,3,Extra Trees,11,num_of_pendown19,0.0277777777777779
+1,3,Extra Trees,12,paper_time23,0.0277777777777779
+1,3,Extra Trees,13,gmrt_in_air7,0.0277777777777779
+1,3,Extra Trees,14,paper_time15,0.0277777777777779
+1,3,Extra Trees,15,air_time13,0.0277777777777779
+1,3,Extra Trees,16,air_time24,0.0277777777777779
+1,3,Extra Trees,17,paper_time7,0.0277777777777779
+1,3,Extra Trees,18,mean_acc_in_air17,0.0277777777777779
+1,3,Extra Trees,19,pressure_mean7,0.0277777777777779
+1,3,Extra Trees,20,paper_time22,0.0277777777777779
+1,3,Extra Trees,21,gmrt_on_paper10,0.0277777777777779
+1,3,Extra Trees,22,gmrt_on_paper7,0.0277777777777779
+1,3,Extra Trees,23,air_time5,0.0277777777777779
+1,3,Extra Trees,24,air_time3,0.0277777777777779
+1,3,Extra Trees,25,air_time7,0.0277777777777779
+1,3,Extra Trees,26,max_y_extension25,0.0277777777777779
+1,3,Extra Trees,27,mean_speed_in_air25,0.0277777777777779
+1,3,Extra Trees,28,mean_speed_on_paper11,0.0277777777777779
+1,3,Extra Trees,29,air_time23,0.0016339869281045694
+1,3,Extra Trees,30,pressure_var19,0.0
+1,3,Extra Trees,31,paper_time9,0.0
+1,3,Extra Trees,32,air_time6,0.0
+1,3,Extra Trees,33,max_x_extension25,0.0
+1,3,Extra Trees,34,pressure_var5,0.0
+1,3,Extra Trees,35,pressure_mean9,0.0
+1,3,Extra Trees,36,disp_index22,0.0
+1,3,Extra Trees,37,pressure_var4,0.0
+1,3,Extra Trees,38,gmrt_in_air23,0.0
+1,3,Extra Trees,39,paper_time8,0.0
+1,3,Extra Trees,40,pressure_mean8,0.0
+1,3,Extra Trees,41,air_time2,0.0
+1,3,Extra Trees,42,paper_time6,0.0
+1,3,Extra Trees,43,num_of_pendown9,0.0
+1,3,Extra Trees,44,air_time9,0.0
+1,3,Extra Trees,45,mean_speed_in_air23,0.0
+1,3,Extra Trees,46,mean_gmrt23,0.0
+1,3,Extra Trees,47,paper_time10,0.0
+1,3,Extra Trees,48,pressure_mean10,0.0
+1,3,Extra Trees,49,mean_acc_in_air7,0.0
+1,3,Extra Trees,50,air_time22,-0.02777777777777768
+1,3,Random Forest,1,pressure_var19,0.02777777777777768
+1,3,Random Forest,2,mean_gmrt7,0.02777777777777768
+1,3,Random Forest,3,disp_index23,0.02777777777777768
+1,3,Random Forest,4,num_of_pendown19,0.02777777777777768
+1,3,Random Forest,5,gmrt_in_air17,0.02777777777777768
+1,3,Random Forest,6,mean_jerk_in_air17,0.02777777777777768
+1,3,Random Forest,7,air_time13,0.02777777777777768
+1,3,Random Forest,8,mean_gmrt17,0.02777777777777768
+1,3,Random Forest,9,mean_speed_in_air17,0.02777777777777768
+1,3,Random Forest,10,air_time24,0.02777777777777768
+1,3,Random Forest,11,paper_time7,0.02777777777777768
+1,3,Random Forest,12,mean_acc_in_air17,0.02777777777777768
+1,3,Random Forest,13,gmrt_on_paper7,0.02777777777777768
+1,3,Random Forest,14,air_time3,0.02777777777777768
+1,3,Random Forest,15,gmrt_on_paper17,0.02777777777777768
+1,3,Random Forest,16,mean_speed_on_paper11,0.02777777777777768
+1,3,Random Forest,17,air_time16,0.0
+1,3,Random Forest,18,air_time15,0.0
+1,3,Random Forest,19,paper_time9,0.0
+1,3,Random Forest,20,max_x_extension25,0.0
+1,3,Random Forest,21,paper_time23,0.0
+1,3,Random Forest,22,gmrt_in_air7,0.0
+1,3,Random Forest,23,pressure_var5,0.0
+1,3,Random Forest,24,pressure_mean9,0.0
+1,3,Random Forest,25,disp_index22,0.0
+1,3,Random Forest,26,mean_speed_in_air7,0.0
+1,3,Random Forest,27,paper_time15,0.0
+1,3,Random Forest,28,pressure_var4,0.0
+1,3,Random Forest,29,gmrt_in_air23,0.0
+1,3,Random Forest,30,paper_time8,0.0
+1,3,Random Forest,31,pressure_mean8,0.0
+1,3,Random Forest,32,air_time2,0.0
+1,3,Random Forest,33,paper_time6,0.0
+1,3,Random Forest,34,pressure_mean7,0.0
+1,3,Random Forest,35,num_of_pendown9,0.0
+1,3,Random Forest,36,paper_time22,0.0
+1,3,Random Forest,37,air_time9,0.0
+1,3,Random Forest,38,gmrt_on_paper10,0.0
+1,3,Random Forest,39,mean_speed_in_air23,0.0
+1,3,Random Forest,40,air_time7,0.0
+1,3,Random Forest,41,mean_gmrt23,0.0
+1,3,Random Forest,42,max_y_extension25,0.0
+1,3,Random Forest,43,paper_time10,0.0
+1,3,Random Forest,44,mean_speed_in_air25,0.0
+1,3,Random Forest,45,pressure_mean10,0.0
+1,3,Random Forest,46,mean_acc_in_air7,0.0
+1,3,Random Forest,47,air_time22,-0.0277777777777779
+1,3,Random Forest,48,air_time5,-0.0277777777777779
+1,3,Random Forest,49,air_time6,-0.05555555555555558
+1,3,Random Forest,50,air_time23,-0.05555555555555558
+1,3,SVM,1,air_time15,0.05718954248366015
+1,3,SVM,2,mean_speed_in_air25,0.05718954248366015
+1,3,SVM,3,air_time5,0.03104575163398704
+1,3,SVM,4,pressure_var19,0.02941176470588247
+1,3,SVM,5,air_time6,0.02941176470588247
+1,3,SVM,6,pressure_var5,0.02941176470588247
+1,3,SVM,7,num_of_pendown9,0.02941176470588247
+1,3,SVM,8,gmrt_on_paper10,0.02941176470588247
+1,3,SVM,9,mean_speed_in_air23,0.02941176470588247
+1,3,SVM,10,paper_time10,0.02941176470588247
+1,3,SVM,11,pressure_mean10,0.02941176470588247
+1,3,SVM,12,mean_speed_on_paper11,0.02941176470588247
+1,3,SVM,13,disp_index23,0.0277777777777779
+1,3,SVM,14,gmrt_in_air17,0.0277777777777779
+1,3,SVM,15,mean_gmrt17,0.0277777777777779
+1,3,SVM,16,mean_speed_in_air17,0.0277777777777779
+1,3,SVM,17,air_time24,0.0277777777777779
+1,3,SVM,18,paper_time7,0.0277777777777779
+1,3,SVM,19,air_time3,0.0277777777777779
+1,3,SVM,20,air_time16,0.0
+1,3,SVM,21,mean_gmrt7,0.0
+1,3,SVM,22,paper_time9,0.0
+1,3,SVM,23,num_of_pendown19,0.0
+1,3,SVM,24,max_x_extension25,0.0
+1,3,SVM,25,paper_time23,0.0
+1,3,SVM,26,air_time22,0.0
+1,3,SVM,27,gmrt_in_air7,0.0
+1,3,SVM,28,pressure_mean9,0.0
+1,3,SVM,29,air_time23,0.0
+1,3,SVM,30,disp_index22,0.0
+1,3,SVM,31,mean_speed_in_air7,0.0
+1,3,SVM,32,paper_time15,0.0
+1,3,SVM,33,mean_jerk_in_air17,0.0
+1,3,SVM,34,air_time13,0.0
+1,3,SVM,35,pressure_var4,0.0
+1,3,SVM,36,gmrt_in_air23,0.0
+1,3,SVM,37,paper_time8,0.0
+1,3,SVM,38,pressure_mean8,0.0
+1,3,SVM,39,air_time2,0.0
+1,3,SVM,40,mean_acc_in_air17,0.0
+1,3,SVM,41,paper_time6,0.0
+1,3,SVM,42,pressure_mean7,0.0
+1,3,SVM,43,paper_time22,0.0
+1,3,SVM,44,air_time9,0.0
+1,3,SVM,45,gmrt_on_paper7,0.0
+1,3,SVM,46,gmrt_on_paper17,0.0
+1,3,SVM,47,air_time7,0.0
+1,3,SVM,48,mean_gmrt23,0.0
+1,3,SVM,49,max_y_extension25,0.0
+1,3,SVM,50,mean_acc_in_air7,0.0
+1,4,TabPFN,1,mean_speed_on_paper11,0.05882352941176472
+1,4,TabPFN,2,air_time15,0.02941176470588236
+1,4,TabPFN,3,mean_gmrt7,0.02941176470588236
+1,4,TabPFN,4,paper_time9,0.02941176470588236
+1,4,TabPFN,5,max_x_extension25,0.02941176470588236
+1,4,TabPFN,6,paper_time23,0.02941176470588236
+1,4,TabPFN,7,pressure_mean9,0.02941176470588236
+1,4,TabPFN,8,paper_time15,0.02941176470588236
+1,4,TabPFN,9,air_time13,0.02941176470588236
+1,4,TabPFN,10,pressure_var4,0.02941176470588236
+1,4,TabPFN,11,paper_time8,0.02941176470588236
+1,4,TabPFN,12,paper_time7,0.02941176470588236
+1,4,TabPFN,13,mean_acc_in_air17,0.02941176470588236
+1,4,TabPFN,14,paper_time6,0.02941176470588236
+1,4,TabPFN,15,gmrt_on_paper10,0.02941176470588236
+1,4,TabPFN,16,air_time5,0.02941176470588236
+1,4,TabPFN,17,air_time3,0.02941176470588236
+1,4,TabPFN,18,gmrt_on_paper17,0.02941176470588236
+1,4,TabPFN,19,air_time7,0.02941176470588236
+1,4,TabPFN,20,air_time16,0.0
+1,4,TabPFN,21,pressure_var19,0.0
+1,4,TabPFN,22,disp_index23,0.0
+1,4,TabPFN,23,num_of_pendown19,0.0
+1,4,TabPFN,24,air_time6,0.0
+1,4,TabPFN,25,air_time22,0.0
+1,4,TabPFN,26,gmrt_in_air7,0.0
+1,4,TabPFN,27,pressure_var5,0.0
+1,4,TabPFN,28,gmrt_in_air17,0.0
+1,4,TabPFN,29,air_time23,0.0
+1,4,TabPFN,30,disp_index22,0.0
+1,4,TabPFN,31,mean_speed_in_air7,0.0
+1,4,TabPFN,32,mean_jerk_in_air17,0.0
+1,4,TabPFN,33,mean_gmrt17,0.0
+1,4,TabPFN,34,mean_speed_in_air17,0.0
+1,4,TabPFN,35,air_time24,0.0
+1,4,TabPFN,36,gmrt_in_air23,0.0
+1,4,TabPFN,37,pressure_mean8,0.0
+1,4,TabPFN,38,air_time2,0.0
+1,4,TabPFN,39,pressure_mean7,0.0
+1,4,TabPFN,40,num_of_pendown9,0.0
+1,4,TabPFN,41,paper_time22,0.0
+1,4,TabPFN,42,air_time9,0.0
+1,4,TabPFN,43,gmrt_on_paper7,0.0
+1,4,TabPFN,44,mean_speed_in_air23,0.0
+1,4,TabPFN,45,mean_gmrt23,0.0
+1,4,TabPFN,46,max_y_extension25,0.0
+1,4,TabPFN,47,paper_time10,0.0
+1,4,TabPFN,48,mean_speed_in_air25,0.0
+1,4,TabPFN,49,pressure_mean10,0.0
+1,4,TabPFN,50,mean_acc_in_air7,0.0
+1,4,Extra Trees,1,pressure_var4,0.05718954248366015
+1,4,Extra Trees,2,pressure_var5,0.02941176470588236
+1,4,Extra Trees,3,air_time13,0.02941176470588236
+1,4,Extra Trees,4,pressure_var19,0.02777777777777779
+1,4,Extra Trees,5,air_time24,0.02777777777777779
+1,4,Extra Trees,6,paper_time6,0.02777777777777779
+1,4,Extra Trees,7,air_time16,0.0
+1,4,Extra Trees,8,air_time15,0.0
+1,4,Extra Trees,9,mean_gmrt7,0.0
+1,4,Extra Trees,10,disp_index23,0.0
+1,4,Extra Trees,11,paper_time9,0.0
+1,4,Extra Trees,12,num_of_pendown19,0.0
+1,4,Extra Trees,13,air_time6,0.0
+1,4,Extra Trees,14,max_x_extension25,0.0
+1,4,Extra Trees,15,paper_time23,0.0
+1,4,Extra Trees,16,air_time22,0.0
+1,4,Extra Trees,17,gmrt_in_air7,0.0
+1,4,Extra Trees,18,gmrt_in_air17,0.0
+1,4,Extra Trees,19,pressure_mean9,0.0
+1,4,Extra Trees,20,air_time23,0.0
+1,4,Extra Trees,21,disp_index22,0.0
+1,4,Extra Trees,22,mean_speed_in_air7,0.0
+1,4,Extra Trees,23,paper_time15,0.0
+1,4,Extra Trees,24,mean_jerk_in_air17,0.0
+1,4,Extra Trees,25,mean_gmrt17,0.0
+1,4,Extra Trees,26,mean_speed_in_air17,0.0
+1,4,Extra Trees,27,gmrt_in_air23,0.0
+1,4,Extra Trees,28,paper_time8,0.0
+1,4,Extra Trees,29,pressure_mean8,0.0
+1,4,Extra Trees,30,paper_time7,0.0
+1,4,Extra Trees,31,air_time2,0.0
+1,4,Extra Trees,32,mean_acc_in_air17,0.0
+1,4,Extra Trees,33,pressure_mean7,0.0
+1,4,Extra Trees,34,num_of_pendown9,0.0
+1,4,Extra Trees,35,paper_time22,0.0
+1,4,Extra Trees,36,air_time9,0.0
+1,4,Extra Trees,37,gmrt_on_paper10,0.0
+1,4,Extra Trees,38,gmrt_on_paper7,0.0
+1,4,Extra Trees,39,mean_speed_in_air23,0.0
+1,4,Extra Trees,40,air_time5,0.0
+1,4,Extra Trees,41,air_time3,0.0
+1,4,Extra Trees,42,gmrt_on_paper17,0.0
+1,4,Extra Trees,43,air_time7,0.0
+1,4,Extra Trees,44,mean_gmrt23,0.0
+1,4,Extra Trees,45,max_y_extension25,0.0
+1,4,Extra Trees,46,paper_time10,0.0
+1,4,Extra Trees,47,mean_speed_in_air25,0.0
+1,4,Extra Trees,48,pressure_mean10,0.0
+1,4,Extra Trees,49,mean_acc_in_air7,0.0
+1,4,Extra Trees,50,mean_speed_on_paper11,0.0
+1,4,Random Forest,1,paper_time8,0.02941176470588236
+1,4,Random Forest,2,pressure_mean8,0.02941176470588236
+1,4,Random Forest,3,air_time15,0.0016339869281045694
+1,4,Random Forest,4,pressure_var19,0.0
+1,4,Random Forest,5,mean_gmrt7,0.0
+1,4,Random Forest,6,num_of_pendown19,0.0
+1,4,Random Forest,7,air_time6,0.0
+1,4,Random Forest,8,max_x_extension25,0.0
+1,4,Random Forest,9,gmrt_in_air7,0.0
+1,4,Random Forest,10,gmrt_in_air17,0.0
+1,4,Random Forest,11,disp_index22,0.0
+1,4,Random Forest,12,mean_speed_in_air7,0.0
+1,4,Random Forest,13,paper_time15,0.0
+1,4,Random Forest,14,mean_gmrt17,0.0
+1,4,Random Forest,15,mean_speed_in_air17,0.0
+1,4,Random Forest,16,air_time24,0.0
+1,4,Random Forest,17,pressure_var4,0.0
+1,4,Random Forest,18,paper_time7,0.0
+1,4,Random Forest,19,air_time2,0.0
+1,4,Random Forest,20,paper_time6,0.0
+1,4,Random Forest,21,pressure_mean7,0.0
+1,4,Random Forest,22,air_time9,0.0
+1,4,Random Forest,23,gmrt_on_paper10,0.0
+1,4,Random Forest,24,gmrt_on_paper7,0.0
+1,4,Random Forest,25,air_time3,0.0
+1,4,Random Forest,26,gmrt_on_paper17,0.0
+1,4,Random Forest,27,air_time7,0.0
+1,4,Random Forest,28,max_y_extension25,0.0
+1,4,Random Forest,29,paper_time10,0.0
+1,4,Random Forest,30,pressure_mean10,0.0
+1,4,Random Forest,31,mean_speed_on_paper11,0.0
+1,4,Random Forest,32,air_time16,-0.02777777777777779
+1,4,Random Forest,33,disp_index23,-0.02777777777777779
+1,4,Random Forest,34,paper_time9,-0.02777777777777779
+1,4,Random Forest,35,paper_time23,-0.02777777777777779
+1,4,Random Forest,36,pressure_var5,-0.02777777777777779
+1,4,Random Forest,37,pressure_mean9,-0.02777777777777779
+1,4,Random Forest,38,air_time23,-0.02777777777777779
+1,4,Random Forest,39,air_time13,-0.02777777777777779
+1,4,Random Forest,40,gmrt_in_air23,-0.02777777777777779
+1,4,Random Forest,41,num_of_pendown9,-0.02777777777777779
+1,4,Random Forest,42,paper_time22,-0.02777777777777779
+1,4,Random Forest,43,mean_speed_in_air23,-0.02777777777777779
+1,4,Random Forest,44,air_time5,-0.02777777777777779
+1,4,Random Forest,45,mean_gmrt23,-0.02777777777777779
+1,4,Random Forest,46,mean_acc_in_air7,-0.02777777777777779
+1,4,Random Forest,47,mean_acc_in_air17,-0.02941176470588236
+1,4,Random Forest,48,mean_speed_in_air25,-0.02941176470588236
+1,4,Random Forest,49,air_time22,-0.05718954248366015
+1,4,Random Forest,50,mean_jerk_in_air17,-0.05718954248366015
+1,4,SVM,1,air_time6,0.08660130718954251
+1,4,SVM,2,max_x_extension25,0.08660130718954251
+1,4,SVM,3,air_time13,0.05882352941176472
+1,4,SVM,4,paper_time6,0.05882352941176472
+1,4,SVM,5,max_y_extension25,0.05718954248366015
+1,4,SVM,6,pressure_var19,0.02941176470588236
+1,4,SVM,7,disp_index23,0.02941176470588236
+1,4,SVM,8,paper_time9,0.02941176470588236
+1,4,SVM,9,num_of_pendown19,0.02941176470588236
+1,4,SVM,10,paper_time23,0.02941176470588236
+1,4,SVM,11,gmrt_in_air7,0.02941176470588236
+1,4,SVM,12,pressure_var5,0.02941176470588236
+1,4,SVM,13,disp_index22,0.02941176470588236
+1,4,SVM,14,mean_speed_in_air7,0.02941176470588236
+1,4,SVM,15,paper_time15,0.02941176470588236
+1,4,SVM,16,pressure_var4,0.02941176470588236
+1,4,SVM,17,paper_time8,0.02941176470588236
+1,4,SVM,18,pressure_mean8,0.02941176470588236
+1,4,SVM,19,paper_time7,0.02941176470588236
+1,4,SVM,20,air_time2,0.02941176470588236
+1,4,SVM,21,pressure_mean7,0.02941176470588236
+1,4,SVM,22,gmrt_on_paper10,0.02941176470588236
+1,4,SVM,23,gmrt_on_paper7,0.02941176470588236
+1,4,SVM,24,air_time5,0.02941176470588236
+1,4,SVM,25,air_time3,0.02941176470588236
+1,4,SVM,26,gmrt_on_paper17,0.02941176470588236
+1,4,SVM,27,mean_gmrt23,0.02941176470588236
+1,4,SVM,28,paper_time10,0.02941176470588236
+1,4,SVM,29,pressure_mean10,0.02941176470588236
+1,4,SVM,30,mean_acc_in_air7,0.02941176470588236
+1,4,SVM,31,mean_speed_on_paper11,0.02941176470588236
+1,4,SVM,32,air_time15,0.02777777777777779
+1,4,SVM,33,air_time16,0.0
+1,4,SVM,34,mean_gmrt7,0.0
+1,4,SVM,35,air_time22,0.0
+1,4,SVM,36,gmrt_in_air17,0.0
+1,4,SVM,37,pressure_mean9,0.0
+1,4,SVM,38,air_time23,0.0
+1,4,SVM,39,mean_jerk_in_air17,0.0
+1,4,SVM,40,mean_gmrt17,0.0
+1,4,SVM,41,mean_speed_in_air17,0.0
+1,4,SVM,42,air_time24,0.0
+1,4,SVM,43,gmrt_in_air23,0.0
+1,4,SVM,44,mean_acc_in_air17,0.0
+1,4,SVM,45,num_of_pendown9,0.0
+1,4,SVM,46,paper_time22,0.0
+1,4,SVM,47,air_time9,0.0
+1,4,SVM,48,mean_speed_in_air23,0.0
+1,4,SVM,49,air_time7,0.0
+1,4,SVM,50,mean_speed_in_air25,0.0
+1,5,TabPFN,1,mean_gmrt7,0.05882352941176472
+1,5,TabPFN,2,mean_gmrt17,0.03104575163398704
+1,5,TabPFN,3,air_time22,0.02941176470588247
+1,5,TabPFN,4,gmrt_in_air7,0.02941176470588247
+1,5,TabPFN,5,pressure_var5,0.02941176470588247
+1,5,TabPFN,6,disp_index22,0.02941176470588247
+1,5,TabPFN,7,mean_jerk_in_air17,0.02941176470588247
+1,5,TabPFN,8,pressure_var4,0.02941176470588247
+1,5,TabPFN,9,paper_time8,0.02941176470588247
+1,5,TabPFN,10,pressure_mean8,0.02941176470588247
+1,5,TabPFN,11,pressure_mean7,0.02941176470588247
+1,5,TabPFN,12,paper_time22,0.02941176470588247
+1,5,TabPFN,13,gmrt_on_paper10,0.02941176470588247
+1,5,TabPFN,14,gmrt_on_paper7,0.02941176470588247
+1,5,TabPFN,15,gmrt_on_paper17,0.02941176470588247
+1,5,TabPFN,16,mean_gmrt23,0.02941176470588247
+1,5,TabPFN,17,max_y_extension25,0.02941176470588247
+1,5,TabPFN,18,mean_speed_in_air25,0.02941176470588247
+1,5,TabPFN,19,pressure_mean10,0.02941176470588247
+1,5,TabPFN,20,mean_speed_on_paper11,0.02941176470588247
+1,5,TabPFN,21,air_time15,0.0016339869281046804
+1,5,TabPFN,22,paper_time9,0.0016339869281046804
+1,5,TabPFN,23,air_time6,0.0016339869281046804
+1,5,TabPFN,24,max_x_extension25,0.0016339869281046804
+1,5,TabPFN,25,mean_speed_in_air7,0.0016339869281046804
+1,5,TabPFN,26,air_time13,0.0016339869281046804
+1,5,TabPFN,27,paper_time7,0.0016339869281046804
+1,5,TabPFN,28,air_time2,0.0016339869281046804
+1,5,TabPFN,29,paper_time6,0.0016339869281046804
+1,5,TabPFN,30,air_time9,0.0016339869281046804
+1,5,TabPFN,31,air_time3,0.0016339869281046804
+1,5,TabPFN,32,air_time16,0.0
+1,5,TabPFN,33,disp_index23,0.0
+1,5,TabPFN,34,gmrt_in_air17,0.0
+1,5,TabPFN,35,pressure_mean9,0.0
+1,5,TabPFN,36,air_time23,0.0
+1,5,TabPFN,37,paper_time15,0.0
+1,5,TabPFN,38,air_time24,0.0
+1,5,TabPFN,39,gmrt_in_air23,0.0
+1,5,TabPFN,40,num_of_pendown9,0.0
+1,5,TabPFN,41,mean_speed_in_air23,0.0
+1,5,TabPFN,42,air_time5,0.0
+1,5,TabPFN,43,air_time7,0.0
+1,5,TabPFN,44,paper_time10,0.0
+1,5,TabPFN,45,mean_acc_in_air7,0.0
+1,5,TabPFN,46,pressure_var19,-0.02777777777777768
+1,5,TabPFN,47,num_of_pendown19,-0.02777777777777768
+1,5,TabPFN,48,paper_time23,-0.02777777777777768
+1,5,TabPFN,49,mean_speed_in_air17,-0.02777777777777768
+1,5,TabPFN,50,mean_acc_in_air17,-0.02777777777777768
+1,5,Extra Trees,1,air_time16,0.0277777777777779
+1,5,Extra Trees,2,air_time22,0.0277777777777779
+1,5,Extra Trees,3,mean_gmrt7,0.0
+1,5,Extra Trees,4,disp_index23,0.0
+1,5,Extra Trees,5,gmrt_in_air7,0.0
+1,5,Extra Trees,6,pressure_var5,0.0
+1,5,Extra Trees,7,mean_speed_in_air7,0.0
+1,5,Extra Trees,8,paper_time15,0.0
+1,5,Extra Trees,9,paper_time7,0.0
+1,5,Extra Trees,10,gmrt_on_paper10,0.0
+1,5,Extra Trees,11,air_time5,0.0
+1,5,Extra Trees,12,gmrt_on_paper17,0.0
+1,5,Extra Trees,13,air_time7,0.0
+1,5,Extra Trees,14,paper_time10,0.0
+1,5,Extra Trees,15,mean_acc_in_air7,0.0
+1,5,Extra Trees,16,paper_time23,-0.02777777777777768
+1,5,Extra Trees,17,pressure_mean9,-0.02777777777777768
+1,5,Extra Trees,18,air_time23,-0.02777777777777768
+1,5,Extra Trees,19,disp_index22,-0.02777777777777768
+1,5,Extra Trees,20,air_time13,-0.02777777777777768
+1,5,Extra Trees,21,air_time24,-0.02777777777777768
+1,5,Extra Trees,22,pressure_var4,-0.02777777777777768
+1,5,Extra Trees,23,gmrt_in_air23,-0.02777777777777768
+1,5,Extra Trees,24,paper_time8,-0.02777777777777768
+1,5,Extra Trees,25,pressure_mean8,-0.02777777777777768
+1,5,Extra Trees,26,air_time2,-0.02777777777777768
+1,5,Extra Trees,27,pressure_mean7,-0.02777777777777768
+1,5,Extra Trees,28,num_of_pendown9,-0.02777777777777768
+1,5,Extra Trees,29,paper_time22,-0.02777777777777768
+1,5,Extra Trees,30,gmrt_on_paper7,-0.02777777777777768
+1,5,Extra Trees,31,mean_speed_in_air23,-0.02777777777777768
+1,5,Extra Trees,32,air_time3,-0.02777777777777768
+1,5,Extra Trees,33,mean_gmrt23,-0.02777777777777768
+1,5,Extra Trees,34,max_y_extension25,-0.02777777777777768
+1,5,Extra Trees,35,mean_speed_in_air25,-0.02777777777777768
+1,5,Extra Trees,36,pressure_mean10,-0.02777777777777768
+1,5,Extra Trees,37,mean_speed_on_paper11,-0.02777777777777768
+1,5,Extra Trees,38,pressure_var19,-0.05555555555555547
+1,5,Extra Trees,39,paper_time9,-0.05555555555555547
+1,5,Extra Trees,40,max_x_extension25,-0.05555555555555547
+1,5,Extra Trees,41,gmrt_in_air17,-0.05555555555555547
+1,5,Extra Trees,42,mean_jerk_in_air17,-0.05555555555555547
+1,5,Extra Trees,43,mean_gmrt17,-0.05555555555555547
+1,5,Extra Trees,44,mean_speed_in_air17,-0.05555555555555547
+1,5,Extra Trees,45,mean_acc_in_air17,-0.05555555555555547
+1,5,Extra Trees,46,air_time9,-0.05555555555555547
+1,5,Extra Trees,47,num_of_pendown19,-0.05718954248366015
+1,5,Extra Trees,48,air_time15,-0.08333333333333326
+1,5,Extra Trees,49,air_time6,-0.08333333333333326
+1,5,Extra Trees,50,paper_time6,-0.08333333333333326
+1,5,Random Forest,1,air_time16,0.0
+1,5,Random Forest,2,pressure_var19,0.0
+1,5,Random Forest,3,mean_gmrt7,0.0
+1,5,Random Forest,4,disp_index23,0.0
+1,5,Random Forest,5,paper_time9,0.0
+1,5,Random Forest,6,air_time6,0.0
+1,5,Random Forest,7,max_x_extension25,0.0
+1,5,Random Forest,8,paper_time23,0.0
+1,5,Random Forest,9,air_time22,0.0
+1,5,Random Forest,10,gmrt_in_air7,0.0
+1,5,Random Forest,11,pressure_var5,0.0
+1,5,Random Forest,12,pressure_mean9,0.0
+1,5,Random Forest,13,disp_index22,0.0
+1,5,Random Forest,14,mean_speed_in_air7,0.0
+1,5,Random Forest,15,paper_time15,0.0
+1,5,Random Forest,16,air_time13,0.0
+1,5,Random Forest,17,mean_gmrt17,0.0
+1,5,Random Forest,18,air_time24,0.0
+1,5,Random Forest,19,pressure_var4,0.0
+1,5,Random Forest,20,gmrt_in_air23,0.0
+1,5,Random Forest,21,paper_time8,0.0
+1,5,Random Forest,22,pressure_mean8,0.0
+1,5,Random Forest,23,paper_time7,0.0
+1,5,Random Forest,24,paper_time6,0.0
+1,5,Random Forest,25,pressure_mean7,0.0
+1,5,Random Forest,26,num_of_pendown9,0.0
+1,5,Random Forest,27,paper_time22,0.0
+1,5,Random Forest,28,air_time9,0.0
+1,5,Random Forest,29,gmrt_on_paper10,0.0
+1,5,Random Forest,30,gmrt_on_paper7,0.0
+1,5,Random Forest,31,mean_speed_in_air23,0.0
+1,5,Random Forest,32,air_time5,0.0
+1,5,Random Forest,33,gmrt_on_paper17,0.0
+1,5,Random Forest,34,air_time7,0.0
+1,5,Random Forest,35,mean_gmrt23,0.0
+1,5,Random Forest,36,max_y_extension25,0.0
+1,5,Random Forest,37,paper_time10,0.0
+1,5,Random Forest,38,mean_speed_in_air25,0.0
+1,5,Random Forest,39,pressure_mean10,0.0
+1,5,Random Forest,40,mean_acc_in_air7,0.0
+1,5,Random Forest,41,mean_speed_on_paper11,0.0
+1,5,Random Forest,42,air_time15,-0.02777777777777768
+1,5,Random Forest,43,gmrt_in_air17,-0.02777777777777768
+1,5,Random Forest,44,mean_speed_in_air17,-0.02777777777777768
+1,5,Random Forest,45,air_time2,-0.02777777777777768
+1,5,Random Forest,46,air_time3,-0.02777777777777768
+1,5,Random Forest,47,air_time23,-0.05555555555555547
+1,5,Random Forest,48,mean_jerk_in_air17,-0.05555555555555547
+1,5,Random Forest,49,mean_acc_in_air17,-0.05555555555555547
+1,5,Random Forest,50,num_of_pendown19,-0.05718954248366015
+1,5,SVM,1,air_time16,0.05718954248366015
+1,5,SVM,2,air_time13,0.05718954248366015
+1,5,SVM,3,air_time24,0.05718954248366015
+1,5,SVM,4,paper_time10,0.05718954248366015
+1,5,SVM,5,pressure_mean7,0.02941176470588236
+1,5,SVM,6,pressure_var5,0.02777777777777768
+1,5,SVM,7,mean_gmrt17,0.02777777777777768
+1,5,SVM,8,gmrt_in_air23,0.02777777777777768
+1,5,SVM,9,num_of_pendown9,0.02777777777777768
+1,5,SVM,10,mean_speed_in_air23,0.02777777777777768
+1,5,SVM,11,gmrt_on_paper17,0.02777777777777768
+1,5,SVM,12,air_time7,0.02777777777777768
+1,5,SVM,13,mean_gmrt23,0.02777777777777768
+1,5,SVM,14,mean_speed_in_air25,0.02777777777777768
+1,5,SVM,15,air_time6,0.0016339869281045694
+1,5,SVM,16,paper_time8,0.0016339869281045694
+1,5,SVM,17,pressure_mean8,0.0016339869281045694
+1,5,SVM,18,air_time3,0.0016339869281045694
+1,5,SVM,19,air_time15,0.0
+1,5,SVM,20,pressure_var19,0.0
+1,5,SVM,21,mean_gmrt7,0.0
+1,5,SVM,22,paper_time9,0.0
+1,5,SVM,23,num_of_pendown19,0.0
+1,5,SVM,24,paper_time23,0.0
+1,5,SVM,25,air_time22,0.0
+1,5,SVM,26,gmrt_in_air7,0.0
+1,5,SVM,27,gmrt_in_air17,0.0
+1,5,SVM,28,pressure_mean9,0.0
+1,5,SVM,29,air_time23,0.0
+1,5,SVM,30,disp_index22,0.0
+1,5,SVM,31,mean_speed_in_air7,0.0
+1,5,SVM,32,paper_time15,0.0
+1,5,SVM,33,mean_jerk_in_air17,0.0
+1,5,SVM,34,mean_speed_in_air17,0.0
+1,5,SVM,35,pressure_var4,0.0
+1,5,SVM,36,paper_time7,0.0
+1,5,SVM,37,air_time2,0.0
+1,5,SVM,38,mean_acc_in_air17,0.0
+1,5,SVM,39,paper_time22,0.0
+1,5,SVM,40,gmrt_on_paper10,0.0
+1,5,SVM,41,gmrt_on_paper7,0.0
+1,5,SVM,42,air_time5,0.0
+1,5,SVM,43,pressure_mean10,0.0
+1,5,SVM,44,mean_acc_in_air7,0.0
+1,5,SVM,45,mean_speed_on_paper11,0.0
+1,5,SVM,46,disp_index23,-0.02777777777777779
+1,5,SVM,47,max_x_extension25,-0.02777777777777779
+1,5,SVM,48,air_time9,-0.02777777777777779
+1,5,SVM,49,max_y_extension25,-0.02777777777777779
+1,5,SVM,50,paper_time6,-0.05555555555555558
+2,1,TabPFN,1,pressure_var19,0.08660130718954251
+2,1,TabPFN,2,pressure_mean8,0.08660130718954251
+2,1,TabPFN,3,num_of_pendown19,0.05718954248366015
+2,1,TabPFN,4,air_time22,0.05718954248366015
+2,1,TabPFN,5,pressure_var4,0.05718954248366015
+2,1,TabPFN,6,paper_time9,0.02941176470588236
+2,1,TabPFN,7,paper_time23,0.02777777777777779
+2,1,TabPFN,8,pressure_mean9,0.02777777777777779
+2,1,TabPFN,9,air_time23,0.02777777777777779
+2,1,TabPFN,10,disp_index22,0.02777777777777779
+2,1,TabPFN,11,air_time24,0.02777777777777779
+2,1,TabPFN,12,mean_acc_in_air17,0.02777777777777779
+2,1,TabPFN,13,air_time3,0.02777777777777779
+2,1,TabPFN,14,pressure_mean10,0.02777777777777779
+2,1,TabPFN,15,mean_acc_in_air7,0.02777777777777779
+2,1,TabPFN,16,gmrt_in_air23,0.0016339869281045694
+2,1,TabPFN,17,air_time16,0.0
+2,1,TabPFN,18,air_time15,0.0
+2,1,TabPFN,19,mean_gmrt7,0.0
+2,1,TabPFN,20,disp_index23,0.0
+2,1,TabPFN,21,air_time6,0.0
+2,1,TabPFN,22,gmrt_in_air17,0.0
+2,1,TabPFN,23,paper_time15,0.0
+2,1,TabPFN,24,mean_jerk_in_air17,0.0
+2,1,TabPFN,25,air_time13,0.0
+2,1,TabPFN,26,mean_gmrt17,0.0
+2,1,TabPFN,27,paper_time8,0.0
+2,1,TabPFN,28,paper_time7,0.0
+2,1,TabPFN,29,air_time2,0.0
+2,1,TabPFN,30,pressure_mean7,0.0
+2,1,TabPFN,31,num_of_pendown9,0.0
+2,1,TabPFN,32,paper_time22,0.0
+2,1,TabPFN,33,air_time9,0.0
+2,1,TabPFN,34,gmrt_on_paper10,0.0
+2,1,TabPFN,35,mean_speed_in_air23,0.0
+2,1,TabPFN,36,air_time5,0.0
+2,1,TabPFN,37,air_time7,0.0
+2,1,TabPFN,38,max_y_extension25,0.0
+2,1,TabPFN,39,paper_time10,0.0
+2,1,TabPFN,40,mean_speed_in_air25,0.0
+2,1,TabPFN,41,max_x_extension25,-0.0016339869281045694
+2,1,TabPFN,42,gmrt_in_air7,-0.0016339869281045694
+2,1,TabPFN,43,paper_time6,-0.0016339869281045694
+2,1,TabPFN,44,mean_gmrt23,-0.0016339869281045694
+2,1,TabPFN,45,mean_speed_on_paper11,-0.0016339869281045694
+2,1,TabPFN,46,pressure_var5,-0.02941176470588236
+2,1,TabPFN,47,mean_speed_in_air7,-0.02941176470588236
+2,1,TabPFN,48,mean_speed_in_air17,-0.02941176470588236
+2,1,TabPFN,49,gmrt_on_paper7,-0.02941176470588236
+2,1,TabPFN,50,gmrt_on_paper17,-0.02941176470588236
+2,1,Extra Trees,1,pressure_mean8,0.05882352941176472
+2,1,Extra Trees,2,gmrt_on_paper17,0.05718954248366015
+2,1,Extra Trees,3,pressure_var19,0.05555555555555558
+2,1,Extra Trees,4,pressure_mean9,0.02941176470588236
+2,1,Extra Trees,5,air_time2,0.02941176470588236
+2,1,Extra Trees,6,paper_time6,0.02941176470588236
+2,1,Extra Trees,7,num_of_pendown9,0.02941176470588236
+2,1,Extra Trees,8,air_time3,0.02941176470588236
+2,1,Extra Trees,9,air_time16,0.02777777777777779
+2,1,Extra Trees,10,pressure_var5,0.02777777777777779
+2,1,Extra Trees,11,disp_index22,0.02777777777777779
+2,1,Extra Trees,12,air_time15,0.0
+2,1,Extra Trees,13,mean_gmrt7,0.0
+2,1,Extra Trees,14,disp_index23,0.0
+2,1,Extra Trees,15,paper_time9,0.0
+2,1,Extra Trees,16,num_of_pendown19,0.0
+2,1,Extra Trees,17,air_time6,0.0
+2,1,Extra Trees,18,max_x_extension25,0.0
+2,1,Extra Trees,19,paper_time23,0.0
+2,1,Extra Trees,20,air_time22,0.0
+2,1,Extra Trees,21,gmrt_in_air7,0.0
+2,1,Extra Trees,22,gmrt_in_air17,0.0
+2,1,Extra Trees,23,air_time23,0.0
+2,1,Extra Trees,24,mean_speed_in_air7,0.0
+2,1,Extra Trees,25,paper_time15,0.0
+2,1,Extra Trees,26,mean_jerk_in_air17,0.0
+2,1,Extra Trees,27,air_time13,0.0
+2,1,Extra Trees,28,mean_gmrt17,0.0
+2,1,Extra Trees,29,mean_speed_in_air17,0.0
+2,1,Extra Trees,30,pressure_var4,0.0
+2,1,Extra Trees,31,gmrt_in_air23,0.0
+2,1,Extra Trees,32,paper_time8,0.0
+2,1,Extra Trees,33,paper_time7,0.0
+2,1,Extra Trees,34,mean_acc_in_air17,0.0
+2,1,Extra Trees,35,pressure_mean7,0.0
+2,1,Extra Trees,36,paper_time22,0.0
+2,1,Extra Trees,37,air_time9,0.0
+2,1,Extra Trees,38,gmrt_on_paper10,0.0
+2,1,Extra Trees,39,gmrt_on_paper7,0.0
+2,1,Extra Trees,40,mean_speed_in_air23,0.0
+2,1,Extra Trees,41,air_time5,0.0
+2,1,Extra Trees,42,mean_gmrt23,0.0
+2,1,Extra Trees,43,max_y_extension25,0.0
+2,1,Extra Trees,44,paper_time10,0.0
+2,1,Extra Trees,45,mean_speed_in_air25,0.0
+2,1,Extra Trees,46,pressure_mean10,0.0
+2,1,Extra Trees,47,mean_acc_in_air7,0.0
+2,1,Extra Trees,48,mean_speed_on_paper11,0.0
+2,1,Extra Trees,49,air_time24,-0.02777777777777779
+2,1,Extra Trees,50,air_time7,-0.02941176470588236
+2,1,Random Forest,1,air_time15,0.02941176470588236
+2,1,Random Forest,2,paper_time23,0.02941176470588236
+2,1,Random Forest,3,air_time23,0.02941176470588236
+2,1,Random Forest,4,air_time24,0.02941176470588236
+2,1,Random Forest,5,paper_time8,0.02941176470588236
+2,1,Random Forest,6,num_of_pendown9,0.02941176470588236
+2,1,Random Forest,7,mean_speed_on_paper11,0.02941176470588236
+2,1,Random Forest,8,disp_index23,0.0016339869281046804
+2,1,Random Forest,9,disp_index22,0.0016339869281046804
+2,1,Random Forest,10,air_time2,0.0016339869281046804
+2,1,Random Forest,11,air_time3,0.0016339869281046804
+2,1,Random Forest,12,pressure_var19,0.0
+2,1,Random Forest,13,paper_time9,0.0
+2,1,Random Forest,14,num_of_pendown19,0.0
+2,1,Random Forest,15,air_time6,0.0
+2,1,Random Forest,16,max_x_extension25,0.0
+2,1,Random Forest,17,air_time22,0.0
+2,1,Random Forest,18,pressure_var5,0.0
+2,1,Random Forest,19,gmrt_in_air17,0.0
+2,1,Random Forest,20,pressure_mean9,0.0
+2,1,Random Forest,21,mean_speed_in_air7,0.0
+2,1,Random Forest,22,paper_time15,0.0
+2,1,Random Forest,23,mean_jerk_in_air17,0.0
+2,1,Random Forest,24,air_time13,0.0
+2,1,Random Forest,25,mean_gmrt17,0.0
+2,1,Random Forest,26,mean_speed_in_air17,0.0
+2,1,Random Forest,27,pressure_var4,0.0
+2,1,Random Forest,28,gmrt_in_air23,0.0
+2,1,Random Forest,29,pressure_mean8,0.0
+2,1,Random Forest,30,paper_time7,0.0
+2,1,Random Forest,31,paper_time6,0.0
+2,1,Random Forest,32,pressure_mean7,0.0
+2,1,Random Forest,33,paper_time22,0.0
+2,1,Random Forest,34,air_time9,0.0
+2,1,Random Forest,35,gmrt_on_paper10,0.0
+2,1,Random Forest,36,gmrt_on_paper7,0.0
+2,1,Random Forest,37,mean_speed_in_air23,0.0
+2,1,Random Forest,38,air_time5,0.0
+2,1,Random Forest,39,gmrt_on_paper17,0.0
+2,1,Random Forest,40,mean_gmrt23,0.0
+2,1,Random Forest,41,max_y_extension25,0.0
+2,1,Random Forest,42,mean_speed_in_air25,0.0
+2,1,Random Forest,43,pressure_mean10,0.0
+2,1,Random Forest,44,mean_acc_in_air7,0.0
+2,1,Random Forest,45,mean_gmrt7,-0.02777777777777779
+2,1,Random Forest,46,mean_acc_in_air17,-0.02777777777777779
+2,1,Random Forest,47,paper_time10,-0.02777777777777779
+2,1,Random Forest,48,air_time16,-0.02941176470588236
+2,1,Random Forest,49,air_time7,-0.05882352941176461
+2,1,Random Forest,50,gmrt_in_air7,-0.0866013071895424
+2,1,SVM,1,num_of_pendown9,0.05882352941176472
+2,1,SVM,2,air_time16,0.02941176470588236
+2,1,SVM,3,air_time22,0.02941176470588236
+2,1,SVM,4,air_time2,0.02941176470588236
+2,1,SVM,5,pressure_var19,0.02777777777777779
+2,1,SVM,6,disp_index23,0.02777777777777779
+2,1,SVM,7,num_of_pendown19,0.02777777777777779
+2,1,SVM,8,gmrt_in_air7,0.02777777777777779
+2,1,SVM,9,gmrt_in_air17,0.02777777777777779
+2,1,SVM,10,mean_speed_in_air7,0.02777777777777779
+2,1,SVM,11,mean_gmrt17,0.02777777777777779
+2,1,SVM,12,mean_speed_in_air17,0.02777777777777779
+2,1,SVM,13,paper_time7,0.02777777777777779
+2,1,SVM,14,air_time15,0.0
+2,1,SVM,15,mean_gmrt7,0.0
+2,1,SVM,16,paper_time9,0.0
+2,1,SVM,17,air_time6,0.0
+2,1,SVM,18,paper_time23,0.0
+2,1,SVM,19,pressure_var5,0.0
+2,1,SVM,20,pressure_mean9,0.0
+2,1,SVM,21,air_time23,0.0
+2,1,SVM,22,disp_index22,0.0
+2,1,SVM,23,paper_time15,0.0
+2,1,SVM,24,mean_jerk_in_air17,0.0
+2,1,SVM,25,air_time13,0.0
+2,1,SVM,26,air_time24,0.0
+2,1,SVM,27,pressure_var4,0.0
+2,1,SVM,28,gmrt_in_air23,0.0
+2,1,SVM,29,paper_time8,0.0
+2,1,SVM,30,pressure_mean8,0.0
+2,1,SVM,31,mean_acc_in_air17,0.0
+2,1,SVM,32,paper_time6,0.0
+2,1,SVM,33,pressure_mean7,0.0
+2,1,SVM,34,paper_time22,0.0
+2,1,SVM,35,air_time9,0.0
+2,1,SVM,36,gmrt_on_paper10,0.0
+2,1,SVM,37,gmrt_on_paper7,0.0
+2,1,SVM,38,mean_speed_in_air23,0.0
+2,1,SVM,39,air_time5,0.0
+2,1,SVM,40,air_time3,0.0
+2,1,SVM,41,gmrt_on_paper17,0.0
+2,1,SVM,42,air_time7,0.0
+2,1,SVM,43,mean_gmrt23,0.0
+2,1,SVM,44,max_y_extension25,0.0
+2,1,SVM,45,paper_time10,0.0
+2,1,SVM,46,mean_speed_in_air25,0.0
+2,1,SVM,47,pressure_mean10,0.0
+2,1,SVM,48,mean_acc_in_air7,0.0
+2,1,SVM,49,mean_speed_on_paper11,0.0
+2,1,SVM,50,max_x_extension25,-0.0016339869281045694
+2,2,TabPFN,1,pressure_var19,0.05882352941176472
+2,2,TabPFN,2,air_time13,0.05882352941176472
+2,2,TabPFN,3,air_time24,0.05882352941176472
+2,2,TabPFN,4,disp_index23,0.05718954248366015
+2,2,TabPFN,5,paper_time9,0.02941176470588236
+2,2,TabPFN,6,num_of_pendown19,0.02941176470588236
+2,2,TabPFN,7,air_time6,0.02941176470588236
+2,2,TabPFN,8,paper_time23,0.02941176470588236
+2,2,TabPFN,9,gmrt_in_air7,0.02941176470588236
+2,2,TabPFN,10,pressure_var5,0.02941176470588236
+2,2,TabPFN,11,gmrt_in_air17,0.02941176470588236
+2,2,TabPFN,12,air_time23,0.02941176470588236
+2,2,TabPFN,13,disp_index22,0.02941176470588236
+2,2,TabPFN,14,mean_speed_in_air7,0.02941176470588236
+2,2,TabPFN,15,paper_time15,0.02941176470588236
+2,2,TabPFN,16,mean_jerk_in_air17,0.02941176470588236
+2,2,TabPFN,17,mean_gmrt17,0.02941176470588236
+2,2,TabPFN,18,gmrt_in_air23,0.02941176470588236
+2,2,TabPFN,19,paper_time8,0.02941176470588236
+2,2,TabPFN,20,pressure_mean8,0.02941176470588236
+2,2,TabPFN,21,paper_time7,0.02941176470588236
+2,2,TabPFN,22,air_time2,0.02941176470588236
+2,2,TabPFN,23,paper_time6,0.02941176470588236
+2,2,TabPFN,24,pressure_mean7,0.02941176470588236
+2,2,TabPFN,25,paper_time22,0.02941176470588236
+2,2,TabPFN,26,gmrt_on_paper10,0.02941176470588236
+2,2,TabPFN,27,gmrt_on_paper7,0.02941176470588236
+2,2,TabPFN,28,mean_speed_in_air23,0.02941176470588236
+2,2,TabPFN,29,air_time5,0.02941176470588236
+2,2,TabPFN,30,air_time3,0.02941176470588236
+2,2,TabPFN,31,gmrt_on_paper17,0.02941176470588236
+2,2,TabPFN,32,air_time7,0.02941176470588236
+2,2,TabPFN,33,max_y_extension25,0.02941176470588236
+2,2,TabPFN,34,paper_time10,0.02941176470588236
+2,2,TabPFN,35,mean_speed_in_air25,0.02941176470588236
+2,2,TabPFN,36,mean_acc_in_air7,0.02941176470588236
+2,2,TabPFN,37,air_time16,0.0016339869281045694
+2,2,TabPFN,38,air_time22,0.0016339869281045694
+2,2,TabPFN,39,air_time15,0.0
+2,2,TabPFN,40,mean_gmrt7,0.0
+2,2,TabPFN,41,max_x_extension25,0.0
+2,2,TabPFN,42,pressure_mean9,0.0
+2,2,TabPFN,43,mean_speed_in_air17,0.0
+2,2,TabPFN,44,pressure_var4,0.0
+2,2,TabPFN,45,mean_acc_in_air17,0.0
+2,2,TabPFN,46,num_of_pendown9,0.0
+2,2,TabPFN,47,air_time9,0.0
+2,2,TabPFN,48,mean_gmrt23,0.0
+2,2,TabPFN,49,pressure_mean10,0.0
+2,2,TabPFN,50,mean_speed_on_paper11,0.0
+2,2,Extra Trees,1,air_time15,0.02941176470588236
+2,2,Extra Trees,2,mean_gmrt7,0.02941176470588236
+2,2,Extra Trees,3,gmrt_in_air7,0.02941176470588236
+2,2,Extra Trees,4,gmrt_in_air17,0.02941176470588236
+2,2,Extra Trees,5,pressure_mean9,0.02941176470588236
+2,2,Extra Trees,6,mean_speed_in_air7,0.02941176470588236
+2,2,Extra Trees,7,air_time13,0.02941176470588236
+2,2,Extra Trees,8,mean_gmrt17,0.02941176470588236
+2,2,Extra Trees,9,mean_speed_in_air17,0.02941176470588236
+2,2,Extra Trees,10,air_time2,0.02941176470588236
+2,2,Extra Trees,11,pressure_mean7,0.02941176470588236
+2,2,Extra Trees,12,gmrt_on_paper10,0.02941176470588236
+2,2,Extra Trees,13,mean_speed_in_air23,0.02941176470588236
+2,2,Extra Trees,14,air_time3,0.02941176470588236
+2,2,Extra Trees,15,gmrt_on_paper17,0.02941176470588236
+2,2,Extra Trees,16,air_time7,0.02941176470588236
+2,2,Extra Trees,17,pressure_mean10,0.02941176470588236
+2,2,Extra Trees,18,mean_speed_on_paper11,0.02941176470588236
+2,2,Extra Trees,19,paper_time23,0.02777777777777779
+2,2,Extra Trees,20,air_time22,0.0016339869281045694
+2,2,Extra Trees,21,air_time16,0.0
+2,2,Extra Trees,22,disp_index23,0.0
+2,2,Extra Trees,23,paper_time9,0.0
+2,2,Extra Trees,24,air_time6,0.0
+2,2,Extra Trees,25,max_x_extension25,0.0
+2,2,Extra Trees,26,pressure_var5,0.0
+2,2,Extra Trees,27,air_time23,0.0
+2,2,Extra Trees,28,disp_index22,0.0
+2,2,Extra Trees,29,paper_time15,0.0
+2,2,Extra Trees,30,mean_jerk_in_air17,0.0
+2,2,Extra Trees,31,air_time24,0.0
+2,2,Extra Trees,32,pressure_var4,0.0
+2,2,Extra Trees,33,gmrt_in_air23,0.0
+2,2,Extra Trees,34,paper_time8,0.0
+2,2,Extra Trees,35,pressure_mean8,0.0
+2,2,Extra Trees,36,paper_time7,0.0
+2,2,Extra Trees,37,mean_acc_in_air17,0.0
+2,2,Extra Trees,38,paper_time6,0.0
+2,2,Extra Trees,39,num_of_pendown9,0.0
+2,2,Extra Trees,40,paper_time22,0.0
+2,2,Extra Trees,41,air_time9,0.0
+2,2,Extra Trees,42,gmrt_on_paper7,0.0
+2,2,Extra Trees,43,air_time5,0.0
+2,2,Extra Trees,44,mean_gmrt23,0.0
+2,2,Extra Trees,45,max_y_extension25,0.0
+2,2,Extra Trees,46,paper_time10,0.0
+2,2,Extra Trees,47,mean_acc_in_air7,0.0
+2,2,Extra Trees,48,pressure_var19,-0.02941176470588236
+2,2,Extra Trees,49,num_of_pendown19,-0.02941176470588236
+2,2,Extra Trees,50,mean_speed_in_air25,-0.02941176470588236
+2,2,Random Forest,1,air_time24,0.05882352941176472
+2,2,Random Forest,2,air_time16,0.03104575163398693
+2,2,Random Forest,3,air_time15,0.03104575163398693
+2,2,Random Forest,4,pressure_var19,0.02941176470588236
+2,2,Random Forest,5,num_of_pendown19,0.02941176470588236
+2,2,Random Forest,6,air_time6,0.02941176470588236
+2,2,Random Forest,7,gmrt_in_air17,0.02941176470588236
+2,2,Random Forest,8,air_time23,0.02941176470588236
+2,2,Random Forest,9,disp_index22,0.02941176470588236
+2,2,Random Forest,10,paper_time15,0.02941176470588236
+2,2,Random Forest,11,air_time13,0.02941176470588236
+2,2,Random Forest,12,mean_gmrt17,0.02941176470588236
+2,2,Random Forest,13,mean_speed_in_air17,0.02941176470588236
+2,2,Random Forest,14,paper_time8,0.02941176470588236
+2,2,Random Forest,15,air_time2,0.02941176470588236
+2,2,Random Forest,16,paper_time22,0.02941176470588236
+2,2,Random Forest,17,gmrt_on_paper10,0.02941176470588236
+2,2,Random Forest,18,air_time5,0.02941176470588236
+2,2,Random Forest,19,gmrt_on_paper17,0.02941176470588236
+2,2,Random Forest,20,mean_acc_in_air7,0.02941176470588236
+2,2,Random Forest,21,mean_gmrt7,0.0
+2,2,Random Forest,22,disp_index23,0.0
+2,2,Random Forest,23,paper_time9,0.0
+2,2,Random Forest,24,max_x_extension25,0.0
+2,2,Random Forest,25,paper_time23,0.0
+2,2,Random Forest,26,air_time22,0.0
+2,2,Random Forest,27,gmrt_in_air7,0.0
+2,2,Random Forest,28,pressure_var5,0.0
+2,2,Random Forest,29,pressure_mean9,0.0
+2,2,Random Forest,30,mean_speed_in_air7,0.0
+2,2,Random Forest,31,mean_jerk_in_air17,0.0
+2,2,Random Forest,32,pressure_var4,0.0
+2,2,Random Forest,33,gmrt_in_air23,0.0
+2,2,Random Forest,34,pressure_mean8,0.0
+2,2,Random Forest,35,paper_time7,0.0
+2,2,Random Forest,36,mean_acc_in_air17,0.0
+2,2,Random Forest,37,paper_time6,0.0
+2,2,Random Forest,38,pressure_mean7,0.0
+2,2,Random Forest,39,num_of_pendown9,0.0
+2,2,Random Forest,40,air_time9,0.0
+2,2,Random Forest,41,gmrt_on_paper7,0.0
+2,2,Random Forest,42,mean_speed_in_air23,0.0
+2,2,Random Forest,43,air_time3,0.0
+2,2,Random Forest,44,mean_gmrt23,0.0
+2,2,Random Forest,45,max_y_extension25,0.0
+2,2,Random Forest,46,paper_time10,0.0
+2,2,Random Forest,47,mean_speed_in_air25,0.0
+2,2,Random Forest,48,pressure_mean10,0.0
+2,2,Random Forest,49,mean_speed_on_paper11,0.0
+2,2,Random Forest,50,air_time7,-0.02777777777777779
+2,2,SVM,1,air_time13,0.0016339869281045694
+2,2,SVM,2,air_time15,0.0
+2,2,SVM,3,mean_gmrt7,0.0
+2,2,SVM,4,disp_index23,0.0
+2,2,SVM,5,paper_time9,0.0
+2,2,SVM,6,air_time6,0.0
+2,2,SVM,7,max_x_extension25,0.0
+2,2,SVM,8,paper_time23,0.0
+2,2,SVM,9,gmrt_in_air7,0.0
+2,2,SVM,10,pressure_var5,0.0
+2,2,SVM,11,gmrt_in_air17,0.0
+2,2,SVM,12,pressure_mean9,0.0
+2,2,SVM,13,air_time23,0.0
+2,2,SVM,14,disp_index22,0.0
+2,2,SVM,15,mean_speed_in_air7,0.0
+2,2,SVM,16,paper_time15,0.0
+2,2,SVM,17,mean_jerk_in_air17,0.0
+2,2,SVM,18,mean_gmrt17,0.0
+2,2,SVM,19,mean_speed_in_air17,0.0
+2,2,SVM,20,pressure_var4,0.0
+2,2,SVM,21,gmrt_in_air23,0.0
+2,2,SVM,22,paper_time8,0.0
+2,2,SVM,23,paper_time7,0.0
+2,2,SVM,24,mean_acc_in_air17,0.0
+2,2,SVM,25,pressure_mean7,0.0
+2,2,SVM,26,num_of_pendown9,0.0
+2,2,SVM,27,paper_time22,0.0
+2,2,SVM,28,air_time9,0.0
+2,2,SVM,29,gmrt_on_paper10,0.0
+2,2,SVM,30,gmrt_on_paper7,0.0
+2,2,SVM,31,mean_speed_in_air23,0.0
+2,2,SVM,32,air_time5,0.0
+2,2,SVM,33,gmrt_on_paper17,0.0
+2,2,SVM,34,mean_gmrt23,0.0
+2,2,SVM,35,paper_time10,0.0
+2,2,SVM,36,mean_speed_in_air25,0.0
+2,2,SVM,37,pressure_mean10,0.0
+2,2,SVM,38,mean_speed_on_paper11,0.0
+2,2,SVM,39,pressure_var19,-0.0016339869281045694
+2,2,SVM,40,num_of_pendown19,-0.0016339869281045694
+2,2,SVM,41,air_time16,-0.02777777777777779
+2,2,SVM,42,air_time22,-0.02777777777777779
+2,2,SVM,43,pressure_mean8,-0.02777777777777779
+2,2,SVM,44,air_time2,-0.02777777777777779
+2,2,SVM,45,paper_time6,-0.02777777777777779
+2,2,SVM,46,air_time3,-0.02777777777777779
+2,2,SVM,47,air_time24,-0.02941176470588236
+2,2,SVM,48,air_time7,-0.02941176470588236
+2,2,SVM,49,max_y_extension25,-0.02941176470588236
+2,2,SVM,50,mean_acc_in_air7,-0.02941176470588236
+2,3,TabPFN,1,air_time15,0.02941176470588236
+2,3,TabPFN,2,pressure_var19,0.02941176470588236
+2,3,TabPFN,3,air_time16,0.0
+2,3,TabPFN,4,mean_gmrt7,0.0
+2,3,TabPFN,5,disp_index23,0.0
+2,3,TabPFN,6,paper_time9,0.0
+2,3,TabPFN,7,num_of_pendown19,0.0
+2,3,TabPFN,8,air_time6,0.0
+2,3,TabPFN,9,max_x_extension25,0.0
+2,3,TabPFN,10,paper_time23,0.0
+2,3,TabPFN,11,gmrt_in_air7,0.0
+2,3,TabPFN,12,pressure_var5,0.0
+2,3,TabPFN,13,gmrt_in_air17,0.0
+2,3,TabPFN,14,pressure_mean9,0.0
+2,3,TabPFN,15,air_time23,0.0
+2,3,TabPFN,16,disp_index22,0.0
+2,3,TabPFN,17,mean_speed_in_air7,0.0
+2,3,TabPFN,18,paper_time15,0.0
+2,3,TabPFN,19,mean_jerk_in_air17,0.0
+2,3,TabPFN,20,air_time13,0.0
+2,3,TabPFN,21,mean_gmrt17,0.0
+2,3,TabPFN,22,mean_speed_in_air17,0.0
+2,3,TabPFN,23,air_time24,0.0
+2,3,TabPFN,24,pressure_var4,0.0
+2,3,TabPFN,25,gmrt_in_air23,0.0
+2,3,TabPFN,26,paper_time8,0.0
+2,3,TabPFN,27,pressure_mean8,0.0
+2,3,TabPFN,28,paper_time7,0.0
+2,3,TabPFN,29,air_time2,0.0
+2,3,TabPFN,30,mean_acc_in_air17,0.0
+2,3,TabPFN,31,paper_time6,0.0
+2,3,TabPFN,32,pressure_mean7,0.0
+2,3,TabPFN,33,paper_time22,0.0
+2,3,TabPFN,34,air_time9,0.0
+2,3,TabPFN,35,gmrt_on_paper7,0.0
+2,3,TabPFN,36,mean_speed_in_air23,0.0
+2,3,TabPFN,37,air_time5,0.0
+2,3,TabPFN,38,air_time3,0.0
+2,3,TabPFN,39,gmrt_on_paper17,0.0
+2,3,TabPFN,40,air_time7,0.0
+2,3,TabPFN,41,mean_gmrt23,0.0
+2,3,TabPFN,42,max_y_extension25,0.0
+2,3,TabPFN,43,paper_time10,0.0
+2,3,TabPFN,44,mean_speed_in_air25,0.0
+2,3,TabPFN,45,pressure_mean10,0.0
+2,3,TabPFN,46,mean_acc_in_air7,0.0
+2,3,TabPFN,47,mean_speed_on_paper11,0.0
+2,3,TabPFN,48,air_time22,-0.02777777777777779
+2,3,TabPFN,49,num_of_pendown9,-0.02777777777777779
+2,3,TabPFN,50,gmrt_on_paper10,-0.02777777777777779
+2,3,Extra Trees,1,air_time15,0.02941176470588236
+2,3,Extra Trees,2,air_time16,0.0
+2,3,Extra Trees,3,pressure_var19,0.0
+2,3,Extra Trees,4,mean_gmrt7,0.0
+2,3,Extra Trees,5,disp_index23,0.0
+2,3,Extra Trees,6,paper_time9,0.0
+2,3,Extra Trees,7,num_of_pendown19,0.0
+2,3,Extra Trees,8,air_time6,0.0
+2,3,Extra Trees,9,max_x_extension25,0.0
+2,3,Extra Trees,10,paper_time23,0.0
+2,3,Extra Trees,11,air_time22,0.0
+2,3,Extra Trees,12,gmrt_in_air7,0.0
+2,3,Extra Trees,13,pressure_var5,0.0
+2,3,Extra Trees,14,gmrt_in_air17,0.0
+2,3,Extra Trees,15,pressure_mean9,0.0
+2,3,Extra Trees,16,air_time23,0.0
+2,3,Extra Trees,17,disp_index22,0.0
+2,3,Extra Trees,18,mean_speed_in_air7,0.0
+2,3,Extra Trees,19,paper_time15,0.0
+2,3,Extra Trees,20,mean_jerk_in_air17,0.0
+2,3,Extra Trees,21,air_time13,0.0
+2,3,Extra Trees,22,mean_gmrt17,0.0
+2,3,Extra Trees,23,mean_speed_in_air17,0.0
+2,3,Extra Trees,24,air_time24,0.0
+2,3,Extra Trees,25,pressure_var4,0.0
+2,3,Extra Trees,26,gmrt_in_air23,0.0
+2,3,Extra Trees,27,paper_time8,0.0
+2,3,Extra Trees,28,pressure_mean8,0.0
+2,3,Extra Trees,29,paper_time7,0.0
+2,3,Extra Trees,30,air_time2,0.0
+2,3,Extra Trees,31,mean_acc_in_air17,0.0
+2,3,Extra Trees,32,paper_time6,0.0
+2,3,Extra Trees,33,pressure_mean7,0.0
+2,3,Extra Trees,34,num_of_pendown9,0.0
+2,3,Extra Trees,35,paper_time22,0.0
+2,3,Extra Trees,36,air_time9,0.0
+2,3,Extra Trees,37,gmrt_on_paper10,0.0
+2,3,Extra Trees,38,gmrt_on_paper7,0.0
+2,3,Extra Trees,39,mean_speed_in_air23,0.0
+2,3,Extra Trees,40,air_time5,0.0
+2,3,Extra Trees,41,air_time3,0.0
+2,3,Extra Trees,42,gmrt_on_paper17,0.0
+2,3,Extra Trees,43,air_time7,0.0
+2,3,Extra Trees,44,mean_gmrt23,0.0
+2,3,Extra Trees,45,max_y_extension25,0.0
+2,3,Extra Trees,46,paper_time10,0.0
+2,3,Extra Trees,47,mean_speed_in_air25,0.0
+2,3,Extra Trees,48,pressure_mean10,0.0
+2,3,Extra Trees,49,mean_acc_in_air7,0.0
+2,3,Extra Trees,50,mean_speed_on_paper11,0.0
+2,3,Random Forest,1,air_time15,0.02941176470588236
+2,3,Random Forest,2,num_of_pendown19,0.02941176470588236
+2,3,Random Forest,3,air_time23,0.02941176470588236
+2,3,Random Forest,4,pressure_mean8,0.02941176470588236
+2,3,Random Forest,5,paper_time6,0.02941176470588236
+2,3,Random Forest,6,mean_speed_in_air23,0.02941176470588236
+2,3,Random Forest,7,mean_gmrt23,0.02941176470588236
+2,3,Random Forest,8,pressure_var4,0.0016339869281045694
+2,3,Random Forest,9,air_time16,0.0
+2,3,Random Forest,10,pressure_var19,0.0
+2,3,Random Forest,11,mean_gmrt7,0.0
+2,3,Random Forest,12,disp_index23,0.0
+2,3,Random Forest,13,paper_time9,0.0
+2,3,Random Forest,14,air_time6,0.0
+2,3,Random Forest,15,max_x_extension25,0.0
+2,3,Random Forest,16,paper_time23,0.0
+2,3,Random Forest,17,air_time22,0.0
+2,3,Random Forest,18,gmrt_in_air7,0.0
+2,3,Random Forest,19,pressure_var5,0.0
+2,3,Random Forest,20,gmrt_in_air17,0.0
+2,3,Random Forest,21,pressure_mean9,0.0
+2,3,Random Forest,22,disp_index22,0.0
+2,3,Random Forest,23,mean_speed_in_air7,0.0
+2,3,Random Forest,24,paper_time15,0.0
+2,3,Random Forest,25,mean_jerk_in_air17,0.0
+2,3,Random Forest,26,air_time13,0.0
+2,3,Random Forest,27,mean_gmrt17,0.0
+2,3,Random Forest,28,mean_speed_in_air17,0.0
+2,3,Random Forest,29,air_time24,0.0
+2,3,Random Forest,30,gmrt_in_air23,0.0
+2,3,Random Forest,31,paper_time8,0.0
+2,3,Random Forest,32,paper_time7,0.0
+2,3,Random Forest,33,air_time2,0.0
+2,3,Random Forest,34,mean_acc_in_air17,0.0
+2,3,Random Forest,35,pressure_mean7,0.0
+2,3,Random Forest,36,num_of_pendown9,0.0
+2,3,Random Forest,37,paper_time22,0.0
+2,3,Random Forest,38,air_time9,0.0
+2,3,Random Forest,39,gmrt_on_paper10,0.0
+2,3,Random Forest,40,gmrt_on_paper7,0.0
+2,3,Random Forest,41,air_time5,0.0
+2,3,Random Forest,42,air_time3,0.0
+2,3,Random Forest,43,gmrt_on_paper17,0.0
+2,3,Random Forest,44,air_time7,0.0
+2,3,Random Forest,45,max_y_extension25,0.0
+2,3,Random Forest,46,paper_time10,0.0
+2,3,Random Forest,47,mean_speed_in_air25,0.0
+2,3,Random Forest,48,pressure_mean10,0.0
+2,3,Random Forest,49,mean_acc_in_air7,0.0
+2,3,Random Forest,50,mean_speed_on_paper11,0.0
+2,3,SVM,1,air_time15,0.05882352941176472
+2,3,SVM,2,max_x_extension25,0.02941176470588236
+2,3,SVM,3,pressure_var5,0.02941176470588236
+2,3,SVM,4,paper_time15,0.02941176470588236
+2,3,SVM,5,air_time24,0.02941176470588236
+2,3,SVM,6,paper_time7,0.02941176470588236
+2,3,SVM,7,pressure_var19,0.0
+2,3,SVM,8,mean_gmrt7,0.0
+2,3,SVM,9,disp_index23,0.0
+2,3,SVM,10,paper_time9,0.0
+2,3,SVM,11,num_of_pendown19,0.0
+2,3,SVM,12,air_time6,0.0
+2,3,SVM,13,paper_time23,0.0
+2,3,SVM,14,gmrt_in_air7,0.0
+2,3,SVM,15,gmrt_in_air17,0.0
+2,3,SVM,16,pressure_mean9,0.0
+2,3,SVM,17,air_time23,0.0
+2,3,SVM,18,disp_index22,0.0
+2,3,SVM,19,mean_speed_in_air7,0.0
+2,3,SVM,20,mean_jerk_in_air17,0.0
+2,3,SVM,21,air_time13,0.0
+2,3,SVM,22,mean_gmrt17,0.0
+2,3,SVM,23,mean_speed_in_air17,0.0
+2,3,SVM,24,pressure_var4,0.0
+2,3,SVM,25,gmrt_in_air23,0.0
+2,3,SVM,26,paper_time8,0.0
+2,3,SVM,27,pressure_mean8,0.0
+2,3,SVM,28,air_time2,0.0
+2,3,SVM,29,mean_acc_in_air17,0.0
+2,3,SVM,30,paper_time6,0.0
+2,3,SVM,31,pressure_mean7,0.0
+2,3,SVM,32,num_of_pendown9,0.0
+2,3,SVM,33,paper_time22,0.0
+2,3,SVM,34,air_time9,0.0
+2,3,SVM,35,gmrt_on_paper10,0.0
+2,3,SVM,36,gmrt_on_paper7,0.0
+2,3,SVM,37,mean_speed_in_air23,0.0
+2,3,SVM,38,air_time5,0.0
+2,3,SVM,39,air_time3,0.0
+2,3,SVM,40,gmrt_on_paper17,0.0
+2,3,SVM,41,air_time7,0.0
+2,3,SVM,42,mean_gmrt23,0.0
+2,3,SVM,43,max_y_extension25,0.0
+2,3,SVM,44,paper_time10,0.0
+2,3,SVM,45,mean_speed_in_air25,0.0
+2,3,SVM,46,pressure_mean10,0.0
+2,3,SVM,47,mean_acc_in_air7,0.0
+2,3,SVM,48,mean_speed_on_paper11,0.0
+2,3,SVM,49,air_time16,-0.02777777777777779
+2,3,SVM,50,air_time22,-0.02777777777777779
+2,4,TabPFN,1,pressure_var19,0.05718954248366015
+2,4,TabPFN,2,air_time16,0.02777777777777768
+2,4,TabPFN,3,air_time22,0.02777777777777768
+2,4,TabPFN,4,air_time15,0.0
+2,4,TabPFN,5,mean_gmrt7,0.0
+2,4,TabPFN,6,disp_index23,0.0
+2,4,TabPFN,7,paper_time9,0.0
+2,4,TabPFN,8,num_of_pendown19,0.0
+2,4,TabPFN,9,air_time6,0.0
+2,4,TabPFN,10,max_x_extension25,0.0
+2,4,TabPFN,11,paper_time23,0.0
+2,4,TabPFN,12,gmrt_in_air7,0.0
+2,4,TabPFN,13,pressure_var5,0.0
+2,4,TabPFN,14,gmrt_in_air17,0.0
+2,4,TabPFN,15,pressure_mean9,0.0
+2,4,TabPFN,16,air_time23,0.0
+2,4,TabPFN,17,disp_index22,0.0
+2,4,TabPFN,18,mean_speed_in_air7,0.0
+2,4,TabPFN,19,paper_time15,0.0
+2,4,TabPFN,20,mean_jerk_in_air17,0.0
+2,4,TabPFN,21,air_time13,0.0
+2,4,TabPFN,22,mean_gmrt17,0.0
+2,4,TabPFN,23,mean_speed_in_air17,0.0
+2,4,TabPFN,24,air_time24,0.0
+2,4,TabPFN,25,pressure_var4,0.0
+2,4,TabPFN,26,gmrt_in_air23,0.0
+2,4,TabPFN,27,paper_time8,0.0
+2,4,TabPFN,28,pressure_mean8,0.0
+2,4,TabPFN,29,paper_time7,0.0
+2,4,TabPFN,30,air_time2,0.0
+2,4,TabPFN,31,mean_acc_in_air17,0.0
+2,4,TabPFN,32,paper_time6,0.0
+2,4,TabPFN,33,pressure_mean7,0.0
+2,4,TabPFN,34,num_of_pendown9,0.0
+2,4,TabPFN,35,paper_time22,0.0
+2,4,TabPFN,36,air_time9,0.0
+2,4,TabPFN,37,gmrt_on_paper10,0.0
+2,4,TabPFN,38,gmrt_on_paper7,0.0
+2,4,TabPFN,39,mean_speed_in_air23,0.0
+2,4,TabPFN,40,air_time5,0.0
+2,4,TabPFN,41,air_time3,0.0
+2,4,TabPFN,42,gmrt_on_paper17,0.0
+2,4,TabPFN,43,air_time7,0.0
+2,4,TabPFN,44,mean_gmrt23,0.0
+2,4,TabPFN,45,max_y_extension25,0.0
+2,4,TabPFN,46,paper_time10,0.0
+2,4,TabPFN,47,mean_speed_in_air25,0.0
+2,4,TabPFN,48,pressure_mean10,0.0
+2,4,TabPFN,49,mean_acc_in_air7,0.0
+2,4,TabPFN,50,mean_speed_on_paper11,0.0
+2,4,Extra Trees,1,air_time16,0.0277777777777779
+2,4,Extra Trees,2,air_time15,0.0277777777777779
+2,4,Extra Trees,3,pressure_var19,0.0277777777777779
+2,4,Extra Trees,4,disp_index23,0.0277777777777779
+2,4,Extra Trees,5,num_of_pendown19,0.0277777777777779
+2,4,Extra Trees,6,max_x_extension25,0.0277777777777779
+2,4,Extra Trees,7,paper_time23,0.0277777777777779
+2,4,Extra Trees,8,pressure_var5,0.0277777777777779
+2,4,Extra Trees,9,air_time23,0.0277777777777779
+2,4,Extra Trees,10,disp_index22,0.0277777777777779
+2,4,Extra Trees,11,mean_gmrt17,0.0277777777777779
+2,4,Extra Trees,12,gmrt_in_air23,0.0277777777777779
+2,4,Extra Trees,13,mean_acc_in_air17,0.0277777777777779
+2,4,Extra Trees,14,air_time9,0.0277777777777779
+2,4,Extra Trees,15,gmrt_on_paper7,0.0277777777777779
+2,4,Extra Trees,16,air_time3,0.0277777777777779
+2,4,Extra Trees,17,max_y_extension25,0.0277777777777779
+2,4,Extra Trees,18,mean_speed_in_air25,0.0277777777777779
+2,4,Extra Trees,19,mean_gmrt7,0.0
+2,4,Extra Trees,20,paper_time9,0.0
+2,4,Extra Trees,21,air_time6,0.0
+2,4,Extra Trees,22,gmrt_in_air7,0.0
+2,4,Extra Trees,23,gmrt_in_air17,0.0
+2,4,Extra Trees,24,pressure_mean9,0.0
+2,4,Extra Trees,25,mean_speed_in_air7,0.0
+2,4,Extra Trees,26,paper_time15,0.0
+2,4,Extra Trees,27,mean_jerk_in_air17,0.0
+2,4,Extra Trees,28,mean_speed_in_air17,0.0
+2,4,Extra Trees,29,air_time24,0.0
+2,4,Extra Trees,30,pressure_var4,0.0
+2,4,Extra Trees,31,paper_time8,0.0
+2,4,Extra Trees,32,pressure_mean8,0.0
+2,4,Extra Trees,33,paper_time7,0.0
+2,4,Extra Trees,34,air_time2,0.0
+2,4,Extra Trees,35,paper_time6,0.0
+2,4,Extra Trees,36,pressure_mean7,0.0
+2,4,Extra Trees,37,num_of_pendown9,0.0
+2,4,Extra Trees,38,paper_time22,0.0
+2,4,Extra Trees,39,gmrt_on_paper10,0.0
+2,4,Extra Trees,40,mean_speed_in_air23,0.0
+2,4,Extra Trees,41,air_time5,0.0
+2,4,Extra Trees,42,gmrt_on_paper17,0.0
+2,4,Extra Trees,43,air_time7,0.0
+2,4,Extra Trees,44,mean_gmrt23,0.0
+2,4,Extra Trees,45,paper_time10,0.0
+2,4,Extra Trees,46,pressure_mean10,0.0
+2,4,Extra Trees,47,mean_acc_in_air7,0.0
+2,4,Extra Trees,48,mean_speed_on_paper11,0.0
+2,4,Extra Trees,49,air_time22,-0.02777777777777768
+2,4,Extra Trees,50,air_time13,-0.02777777777777768
+2,4,Random Forest,1,air_time23,0.02777777777777768
+2,4,Random Forest,2,paper_time6,0.02777777777777768
+2,4,Random Forest,3,air_time16,0.0
+2,4,Random Forest,4,air_time15,0.0
+2,4,Random Forest,5,pressure_var19,0.0
+2,4,Random Forest,6,mean_gmrt7,0.0
+2,4,Random Forest,7,disp_index23,0.0
+2,4,Random Forest,8,paper_time9,0.0
+2,4,Random Forest,9,num_of_pendown19,0.0
+2,4,Random Forest,10,air_time6,0.0
+2,4,Random Forest,11,max_x_extension25,0.0
+2,4,Random Forest,12,paper_time23,0.0
+2,4,Random Forest,13,air_time22,0.0
+2,4,Random Forest,14,gmrt_in_air17,0.0
+2,4,Random Forest,15,pressure_mean9,0.0
+2,4,Random Forest,16,disp_index22,0.0
+2,4,Random Forest,17,paper_time15,0.0
+2,4,Random Forest,18,mean_jerk_in_air17,0.0
+2,4,Random Forest,19,air_time13,0.0
+2,4,Random Forest,20,air_time24,0.0
+2,4,Random Forest,21,pressure_var4,0.0
+2,4,Random Forest,22,gmrt_in_air23,0.0
+2,4,Random Forest,23,paper_time8,0.0
+2,4,Random Forest,24,pressure_mean8,0.0
+2,4,Random Forest,25,paper_time7,0.0
+2,4,Random Forest,26,air_time2,0.0
+2,4,Random Forest,27,mean_acc_in_air17,0.0
+2,4,Random Forest,28,pressure_mean7,0.0
+2,4,Random Forest,29,num_of_pendown9,0.0
+2,4,Random Forest,30,paper_time22,0.0
+2,4,Random Forest,31,air_time9,0.0
+2,4,Random Forest,32,gmrt_on_paper10,0.0
+2,4,Random Forest,33,gmrt_on_paper7,0.0
+2,4,Random Forest,34,mean_speed_in_air23,0.0
+2,4,Random Forest,35,gmrt_on_paper17,0.0
+2,4,Random Forest,36,air_time7,0.0
+2,4,Random Forest,37,mean_gmrt23,0.0
+2,4,Random Forest,38,max_y_extension25,0.0
+2,4,Random Forest,39,paper_time10,0.0
+2,4,Random Forest,40,mean_speed_in_air25,0.0
+2,4,Random Forest,41,pressure_mean10,0.0
+2,4,Random Forest,42,mean_speed_on_paper11,0.0
+2,4,Random Forest,43,gmrt_in_air7,-0.0277777777777779
+2,4,Random Forest,44,pressure_var5,-0.0277777777777779
+2,4,Random Forest,45,mean_speed_in_air7,-0.0277777777777779
+2,4,Random Forest,46,mean_gmrt17,-0.0277777777777779
+2,4,Random Forest,47,mean_speed_in_air17,-0.0277777777777779
+2,4,Random Forest,48,air_time5,-0.0277777777777779
+2,4,Random Forest,49,air_time3,-0.0277777777777779
+2,4,Random Forest,50,mean_acc_in_air7,-0.0277777777777779
+2,4,SVM,1,pressure_var19,0.05555555555555558
+2,4,SVM,2,pressure_var4,0.05555555555555558
+2,4,SVM,3,air_time3,0.05555555555555558
+2,4,SVM,4,max_y_extension25,0.05555555555555558
+2,4,SVM,5,pressure_mean10,0.05555555555555558
+2,4,SVM,6,air_time16,0.02777777777777779
+2,4,SVM,7,paper_time9,0.02777777777777779
+2,4,SVM,8,air_time6,0.02777777777777779
+2,4,SVM,9,paper_time23,0.02777777777777779
+2,4,SVM,10,gmrt_in_air7,0.02777777777777779
+2,4,SVM,11,pressure_var5,0.02777777777777779
+2,4,SVM,12,mean_speed_in_air7,0.02777777777777779
+2,4,SVM,13,air_time24,0.02777777777777779
+2,4,SVM,14,gmrt_in_air23,0.02777777777777779
+2,4,SVM,15,pressure_mean8,0.02777777777777779
+2,4,SVM,16,paper_time6,0.02777777777777779
+2,4,SVM,17,gmrt_on_paper10,0.02777777777777779
+2,4,SVM,18,mean_speed_in_air23,0.02777777777777779
+2,4,SVM,19,mean_speed_on_paper11,0.02777777777777779
+2,4,SVM,20,air_time15,0.0
+2,4,SVM,21,mean_gmrt7,0.0
+2,4,SVM,22,disp_index23,0.0
+2,4,SVM,23,num_of_pendown19,0.0
+2,4,SVM,24,max_x_extension25,0.0
+2,4,SVM,25,air_time22,0.0
+2,4,SVM,26,gmrt_in_air17,0.0
+2,4,SVM,27,pressure_mean9,0.0
+2,4,SVM,28,air_time23,0.0
+2,4,SVM,29,disp_index22,0.0
+2,4,SVM,30,paper_time15,0.0
+2,4,SVM,31,mean_jerk_in_air17,0.0
+2,4,SVM,32,mean_gmrt17,0.0
+2,4,SVM,33,mean_speed_in_air17,0.0
+2,4,SVM,34,paper_time8,0.0
+2,4,SVM,35,paper_time7,0.0
+2,4,SVM,36,air_time2,0.0
+2,4,SVM,37,mean_acc_in_air17,0.0
+2,4,SVM,38,pressure_mean7,0.0
+2,4,SVM,39,num_of_pendown9,0.0
+2,4,SVM,40,paper_time22,0.0
+2,4,SVM,41,air_time9,0.0
+2,4,SVM,42,gmrt_on_paper7,0.0
+2,4,SVM,43,air_time5,0.0
+2,4,SVM,44,gmrt_on_paper17,0.0
+2,4,SVM,45,air_time7,0.0
+2,4,SVM,46,mean_gmrt23,0.0
+2,4,SVM,47,paper_time10,0.0
+2,4,SVM,48,mean_speed_in_air25,0.0
+2,4,SVM,49,mean_acc_in_air7,0.0
+2,4,SVM,50,air_time13,-0.02777777777777779
+2,5,TabPFN,1,air_time22,0.05555555555555558
+2,5,TabPFN,2,disp_index23,0.02777777777777779
+2,5,TabPFN,3,air_time13,0.02777777777777779
+2,5,TabPFN,4,gmrt_on_paper10,0.02777777777777779
+2,5,TabPFN,5,air_time16,0.0
+2,5,TabPFN,6,air_time15,0.0
+2,5,TabPFN,7,pressure_var19,0.0
+2,5,TabPFN,8,mean_gmrt7,0.0
+2,5,TabPFN,9,paper_time9,0.0
+2,5,TabPFN,10,num_of_pendown19,0.0
+2,5,TabPFN,11,air_time6,0.0
+2,5,TabPFN,12,max_x_extension25,0.0
+2,5,TabPFN,13,paper_time23,0.0
+2,5,TabPFN,14,gmrt_in_air7,0.0
+2,5,TabPFN,15,pressure_var5,0.0
+2,5,TabPFN,16,gmrt_in_air17,0.0
+2,5,TabPFN,17,pressure_mean9,0.0
+2,5,TabPFN,18,air_time23,0.0
+2,5,TabPFN,19,disp_index22,0.0
+2,5,TabPFN,20,mean_speed_in_air7,0.0
+2,5,TabPFN,21,paper_time15,0.0
+2,5,TabPFN,22,mean_jerk_in_air17,0.0
+2,5,TabPFN,23,mean_gmrt17,0.0
+2,5,TabPFN,24,mean_speed_in_air17,0.0
+2,5,TabPFN,25,air_time24,0.0
+2,5,TabPFN,26,pressure_var4,0.0
+2,5,TabPFN,27,gmrt_in_air23,0.0
+2,5,TabPFN,28,paper_time8,0.0
+2,5,TabPFN,29,pressure_mean8,0.0
+2,5,TabPFN,30,paper_time7,0.0
+2,5,TabPFN,31,air_time2,0.0
+2,5,TabPFN,32,mean_acc_in_air17,0.0
+2,5,TabPFN,33,paper_time6,0.0
+2,5,TabPFN,34,pressure_mean7,0.0
+2,5,TabPFN,35,num_of_pendown9,0.0
+2,5,TabPFN,36,paper_time22,0.0
+2,5,TabPFN,37,air_time9,0.0
+2,5,TabPFN,38,gmrt_on_paper7,0.0
+2,5,TabPFN,39,mean_speed_in_air23,0.0
+2,5,TabPFN,40,air_time5,0.0
+2,5,TabPFN,41,air_time3,0.0
+2,5,TabPFN,42,gmrt_on_paper17,0.0
+2,5,TabPFN,43,air_time7,0.0
+2,5,TabPFN,44,mean_gmrt23,0.0
+2,5,TabPFN,45,max_y_extension25,0.0
+2,5,TabPFN,46,paper_time10,0.0
+2,5,TabPFN,47,mean_speed_in_air25,0.0
+2,5,TabPFN,48,pressure_mean10,0.0
+2,5,TabPFN,49,mean_acc_in_air7,0.0
+2,5,TabPFN,50,mean_speed_on_paper11,0.0
+2,5,Extra Trees,1,air_time16,0.0
+2,5,Extra Trees,2,air_time15,0.0
+2,5,Extra Trees,3,disp_index23,0.0
+2,5,Extra Trees,4,paper_time9,0.0
+2,5,Extra Trees,5,air_time6,0.0
+2,5,Extra Trees,6,max_x_extension25,0.0
+2,5,Extra Trees,7,paper_time23,0.0
+2,5,Extra Trees,8,air_time22,0.0
+2,5,Extra Trees,9,gmrt_in_air17,0.0
+2,5,Extra Trees,10,air_time23,0.0
+2,5,Extra Trees,11,disp_index22,0.0
+2,5,Extra Trees,12,mean_jerk_in_air17,0.0
+2,5,Extra Trees,13,air_time13,0.0
+2,5,Extra Trees,14,mean_speed_in_air17,0.0
+2,5,Extra Trees,15,air_time24,0.0
+2,5,Extra Trees,16,paper_time8,0.0
+2,5,Extra Trees,17,pressure_mean8,0.0
+2,5,Extra Trees,18,paper_time7,0.0
+2,5,Extra Trees,19,air_time2,0.0
+2,5,Extra Trees,20,mean_acc_in_air17,0.0
+2,5,Extra Trees,21,paper_time6,0.0
+2,5,Extra Trees,22,num_of_pendown9,0.0
+2,5,Extra Trees,23,air_time9,0.0
+2,5,Extra Trees,24,gmrt_on_paper10,0.0
+2,5,Extra Trees,25,mean_speed_in_air23,0.0
+2,5,Extra Trees,26,air_time5,0.0
+2,5,Extra Trees,27,air_time3,0.0
+2,5,Extra Trees,28,gmrt_on_paper17,0.0
+2,5,Extra Trees,29,air_time7,0.0
+2,5,Extra Trees,30,mean_gmrt23,0.0
+2,5,Extra Trees,31,pressure_mean10,0.0
+2,5,Extra Trees,32,mean_acc_in_air7,0.0
+2,5,Extra Trees,33,mean_speed_on_paper11,0.0
+2,5,Extra Trees,34,pressure_var19,-0.02777777777777779
+2,5,Extra Trees,35,mean_gmrt7,-0.02777777777777779
+2,5,Extra Trees,36,num_of_pendown19,-0.02777777777777779
+2,5,Extra Trees,37,gmrt_in_air7,-0.02777777777777779
+2,5,Extra Trees,38,pressure_var5,-0.02777777777777779
+2,5,Extra Trees,39,pressure_mean9,-0.02777777777777779
+2,5,Extra Trees,40,mean_speed_in_air7,-0.02777777777777779
+2,5,Extra Trees,41,paper_time15,-0.02777777777777779
+2,5,Extra Trees,42,mean_gmrt17,-0.02777777777777779
+2,5,Extra Trees,43,pressure_var4,-0.02777777777777779
+2,5,Extra Trees,44,gmrt_in_air23,-0.02777777777777779
+2,5,Extra Trees,45,pressure_mean7,-0.02777777777777779
+2,5,Extra Trees,46,paper_time22,-0.02777777777777779
+2,5,Extra Trees,47,gmrt_on_paper7,-0.02777777777777779
+2,5,Extra Trees,48,max_y_extension25,-0.02777777777777779
+2,5,Extra Trees,49,paper_time10,-0.02777777777777779
+2,5,Extra Trees,50,mean_speed_in_air25,-0.02777777777777779
+2,5,Random Forest,1,disp_index23,0.05555555555555558
+2,5,Random Forest,2,pressure_mean8,0.05555555555555558
+2,5,Random Forest,3,air_time7,0.02941176470588236
+2,5,Random Forest,4,num_of_pendown19,0.02777777777777779
+2,5,Random Forest,5,paper_time23,0.02777777777777779
+2,5,Random Forest,6,air_time13,0.02777777777777779
+2,5,Random Forest,7,air_time16,0.0
+2,5,Random Forest,8,air_time15,0.0
+2,5,Random Forest,9,pressure_var19,0.0
+2,5,Random Forest,10,mean_gmrt7,0.0
+2,5,Random Forest,11,paper_time9,0.0
+2,5,Random Forest,12,air_time6,0.0
+2,5,Random Forest,13,max_x_extension25,0.0
+2,5,Random Forest,14,air_time22,0.0
+2,5,Random Forest,15,gmrt_in_air7,0.0
+2,5,Random Forest,16,pressure_var5,0.0
+2,5,Random Forest,17,gmrt_in_air17,0.0
+2,5,Random Forest,18,pressure_mean9,0.0
+2,5,Random Forest,19,air_time23,0.0
+2,5,Random Forest,20,disp_index22,0.0
+2,5,Random Forest,21,mean_speed_in_air7,0.0
+2,5,Random Forest,22,paper_time15,0.0
+2,5,Random Forest,23,mean_jerk_in_air17,0.0
+2,5,Random Forest,24,mean_gmrt17,0.0
+2,5,Random Forest,25,mean_speed_in_air17,0.0
+2,5,Random Forest,26,air_time24,0.0
+2,5,Random Forest,27,pressure_var4,0.0
+2,5,Random Forest,28,gmrt_in_air23,0.0
+2,5,Random Forest,29,paper_time7,0.0
+2,5,Random Forest,30,air_time2,0.0
+2,5,Random Forest,31,mean_acc_in_air17,0.0
+2,5,Random Forest,32,paper_time6,0.0
+2,5,Random Forest,33,pressure_mean7,0.0
+2,5,Random Forest,34,num_of_pendown9,0.0
+2,5,Random Forest,35,air_time9,0.0
+2,5,Random Forest,36,gmrt_on_paper10,0.0
+2,5,Random Forest,37,gmrt_on_paper7,0.0
+2,5,Random Forest,38,mean_speed_in_air23,0.0
+2,5,Random Forest,39,air_time5,0.0
+2,5,Random Forest,40,gmrt_on_paper17,0.0
+2,5,Random Forest,41,mean_gmrt23,0.0
+2,5,Random Forest,42,max_y_extension25,0.0
+2,5,Random Forest,43,paper_time10,0.0
+2,5,Random Forest,44,mean_speed_in_air25,0.0
+2,5,Random Forest,45,pressure_mean10,0.0
+2,5,Random Forest,46,mean_acc_in_air7,0.0
+2,5,Random Forest,47,mean_speed_on_paper11,0.0
+2,5,Random Forest,48,paper_time8,-0.02777777777777779
+2,5,Random Forest,49,paper_time22,-0.02777777777777779
+2,5,Random Forest,50,air_time3,-0.02777777777777779
+2,5,SVM,1,paper_time10,0.02941176470588236
+2,5,SVM,2,disp_index23,0.02777777777777779
+2,5,SVM,3,air_time13,0.02777777777777779
+2,5,SVM,4,air_time24,0.02777777777777779
+2,5,SVM,5,pressure_mean8,0.02777777777777779
+2,5,SVM,6,pressure_mean10,0.02777777777777779
+2,5,SVM,7,air_time16,0.0
+2,5,SVM,8,air_time15,0.0
+2,5,SVM,9,pressure_var19,0.0
+2,5,SVM,10,mean_gmrt7,0.0
+2,5,SVM,11,paper_time9,0.0
+2,5,SVM,12,num_of_pendown19,0.0
+2,5,SVM,13,air_time6,0.0
+2,5,SVM,14,max_x_extension25,0.0
+2,5,SVM,15,paper_time23,0.0
+2,5,SVM,16,air_time22,0.0
+2,5,SVM,17,gmrt_in_air7,0.0
+2,5,SVM,18,pressure_var5,0.0
+2,5,SVM,19,gmrt_in_air17,0.0
+2,5,SVM,20,pressure_mean9,0.0
+2,5,SVM,21,air_time23,0.0
+2,5,SVM,22,disp_index22,0.0
+2,5,SVM,23,mean_speed_in_air7,0.0
+2,5,SVM,24,paper_time15,0.0
+2,5,SVM,25,mean_jerk_in_air17,0.0
+2,5,SVM,26,mean_gmrt17,0.0
+2,5,SVM,27,mean_speed_in_air17,0.0
+2,5,SVM,28,pressure_var4,0.0
+2,5,SVM,29,gmrt_in_air23,0.0
+2,5,SVM,30,paper_time8,0.0
+2,5,SVM,31,paper_time7,0.0
+2,5,SVM,32,air_time2,0.0
+2,5,SVM,33,mean_acc_in_air17,0.0
+2,5,SVM,34,paper_time6,0.0
+2,5,SVM,35,pressure_mean7,0.0
+2,5,SVM,36,num_of_pendown9,0.0
+2,5,SVM,37,paper_time22,0.0
+2,5,SVM,38,air_time9,0.0
+2,5,SVM,39,gmrt_on_paper10,0.0
+2,5,SVM,40,gmrt_on_paper7,0.0
+2,5,SVM,41,mean_speed_in_air23,0.0
+2,5,SVM,42,air_time5,0.0
+2,5,SVM,43,air_time3,0.0
+2,5,SVM,44,gmrt_on_paper17,0.0
+2,5,SVM,45,air_time7,0.0
+2,5,SVM,46,mean_gmrt23,0.0
+2,5,SVM,47,max_y_extension25,0.0
+2,5,SVM,48,mean_speed_in_air25,0.0
+2,5,SVM,49,mean_acc_in_air7,0.0
+2,5,SVM,50,mean_speed_on_paper11,0.0

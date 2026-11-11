@@ -1,0 +1,30 @@
+{
+  "stage": "11B",
+  "model": "TabPFN",
+  "participants_in_dataset": 174,
+  "subset_participants": 40,
+  "model_input_features": 118,
+  "features_tested": 25,
+  "permutation_repeats": 3,
+  "baseline_balanced_accuracy": 1.0,
+  "baseline_roc_auc": 1.0,
+  "baseline_log_loss": 8.507925667800009e-05,
+  "subset_sampling": "Stratified random subset",
+  "permutation_metrics": [
+    "ROC-AUC drop",
+    "Log-loss increase",
+    "Balanced accuracy drop"
+  ],
+  "local_explanation_rows": 50,
+  "expected_local_explanation_rows": 50,
+  "limitations": [
+    "Exploratory in-sample analysis.",
+    "Final model was fitted on all 174 participants.",
+    "Only 40 participants were used for this analysis.",
+    "Only 25 of 118 features were tested.",
+    "Correlated features can distort permutation importance.",
+    "Median replacement is sensitivity analysis, not SHAP.",
+    "No external validation or clinical validity established."
+  ],
+  "runtime_seconds": 780.98
+}

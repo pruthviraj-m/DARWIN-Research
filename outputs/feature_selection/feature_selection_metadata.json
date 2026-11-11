@@ -1,0 +1,61 @@
+{
+    "project": "DARWIN Research",
+    "experiment": "Leakage-safe fold-specific Extra Trees feature selection",
+    "dataset": "data\\data.csv",
+    "participants": 174,
+    "original_features": 450,
+    "removed_derived_features": [
+        "total_time1",
+        "total_time2",
+        "total_time3",
+        "total_time4",
+        "total_time5",
+        "total_time6",
+        "total_time7",
+        "total_time8",
+        "total_time9",
+        "total_time10",
+        "total_time11",
+        "total_time12",
+        "total_time13",
+        "total_time14",
+        "total_time15",
+        "total_time16",
+        "total_time17",
+        "total_time18",
+        "total_time19",
+        "total_time20",
+        "total_time21",
+        "total_time22",
+        "total_time23",
+        "total_time24",
+        "total_time25"
+    ],
+    "baseline_features": 425,
+    "feature_counts": [
+        425,
+        150,
+        100,
+        50
+    ],
+    "selector": "ExtraTreesClassifier",
+    "selector_n_estimators": 500,
+    "outer_cv": "RepeatedStratifiedKFold",
+    "n_splits": 5,
+    "n_repeats": 5,
+    "random_state": 42,
+    "models": [
+        "TabPFN",
+        "Extra Trees",
+        "Random Forest",
+        "SVM"
+    ],
+    "device": "CPU",
+    "target_mapping": {
+        "H": 0,
+        "P": 1
+    },
+    "selection_rule": "Feature importance is fitted separately on each outer training fold. The corresponding outer test fold is never used for feature ranking or selection.",
+    "total_classifier_fits": 400,
+    "total_execution_time_seconds": 3063.0285806655884
+}

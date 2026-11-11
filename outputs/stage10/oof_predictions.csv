@@ -1,0 +1,697 @@
+participant_row,participant_id,outer_fold,model,chosen_strategy,true_class,predicted_class,patient_probability
+3,id_4,1,TabPFN,Correlation-pruned,1,1,0.9166973829269409
+5,id_6,1,TabPFN,Correlation-pruned,1,1,0.8862764239311218
+8,id_9,1,TabPFN,Correlation-pruned,1,1,0.9387074112892151
+10,id_11,1,TabPFN,Correlation-pruned,1,1,0.9971190094947815
+23,id_24,1,TabPFN,Correlation-pruned,1,1,0.7187375426292419
+27,id_28,1,TabPFN,Correlation-pruned,1,1,0.9709289073944092
+29,id_30,1,TabPFN,Correlation-pruned,1,1,0.9835928082466125
+33,id_34,1,TabPFN,Correlation-pruned,1,1,0.975792646408081
+36,id_37,1,TabPFN,Correlation-pruned,1,1,0.9444018602371216
+43,id_44,1,TabPFN,Correlation-pruned,1,1,0.5122278928756714
+45,id_46,1,TabPFN,Correlation-pruned,1,0,0.37109583616256714
+46,id_47,1,TabPFN,Correlation-pruned,1,0,0.48369282484054565
+48,id_49,1,TabPFN,Correlation-pruned,1,0,0.43587374687194824
+50,id_51,1,TabPFN,Correlation-pruned,1,1,0.9965345859527588
+60,id_61,1,TabPFN,Correlation-pruned,1,1,0.8488472104072571
+76,id_77,1,TabPFN,Correlation-pruned,1,1,0.9973707795143127
+79,id_80,1,TabPFN,Correlation-pruned,1,1,0.9985880851745605
+87,id_88,1,TabPFN,Correlation-pruned,1,1,0.9991393089294434
+94,id_95,1,TabPFN,Correlation-pruned,0,0,0.014131167903542519
+104,id_105,1,TabPFN,Correlation-pruned,0,0,0.12870611250400543
+106,id_107,1,TabPFN,Correlation-pruned,0,0,0.46227148175239563
+108,id_109,1,TabPFN,Correlation-pruned,0,0,0.2590709924697876
+109,id_110,1,TabPFN,Correlation-pruned,0,0,0.007231086026877165
+122,id_123,1,TabPFN,Correlation-pruned,0,0,0.0018010163912549615
+125,id_126,1,TabPFN,Correlation-pruned,0,0,0.05107337236404419
+136,id_137,1,TabPFN,Correlation-pruned,0,0,0.0017419353825971484
+137,id_138,1,TabPFN,Correlation-pruned,0,0,0.0129933450371027
+155,id_156,1,TabPFN,Correlation-pruned,0,1,0.5232200622558594
+156,id_157,1,TabPFN,Correlation-pruned,0,0,0.003267118940129876
+159,id_160,1,TabPFN,Correlation-pruned,0,0,0.19382470846176147
+164,id_165,1,TabPFN,Correlation-pruned,0,1,0.9748583436012268
+166,id_167,1,TabPFN,Correlation-pruned,0,0,0.00439841253682971
+167,id_168,1,TabPFN,Correlation-pruned,0,0,0.005161968059837818
+168,id_169,1,TabPFN,Correlation-pruned,0,0,0.06299316883087158
+172,id_173,1,TabPFN,Correlation-pruned,0,0,0.00026897722273133695
+3,id_4,1,Extra Trees,Correlation-pruned,1,1,0.8
+5,id_6,1,Extra Trees,Correlation-pruned,1,1,0.7725
+8,id_9,1,Extra Trees,Correlation-pruned,1,1,0.7825
+10,id_11,1,Extra Trees,Correlation-pruned,1,1,0.9475
+23,id_24,1,Extra Trees,Correlation-pruned,1,1,0.6775
+27,id_28,1,Extra Trees,Correlation-pruned,1,1,0.8475
+29,id_30,1,Extra Trees,Correlation-pruned,1,1,0.7775
+33,id_34,1,Extra Trees,Correlation-pruned,1,1,0.795
+36,id_37,1,Extra Trees,Correlation-pruned,1,1,0.7375
+43,id_44,1,Extra Trees,Correlation-pruned,1,1,0.555
+45,id_46,1,Extra Trees,Correlation-pruned,1,1,0.5125
+46,id_47,1,Extra Trees,Correlation-pruned,1,1,0.5825
+48,id_49,1,Extra Trees,Correlation-pruned,1,1,0.6375
+50,id_51,1,Extra Trees,Correlation-pruned,1,1,0.91
+60,id_61,1,Extra Trees,Correlation-pruned,1,1,0.7025
+76,id_77,1,Extra Trees,Correlation-pruned,1,1,0.7225
+79,id_80,1,Extra Trees,Correlation-pruned,1,1,0.78
+87,id_88,1,Extra Trees,Correlation-pruned,1,1,0.9275
+94,id_95,1,Extra Trees,Correlation-pruned,0,0,0.195
+104,id_105,1,Extra Trees,Correlation-pruned,0,1,0.5125
+106,id_107,1,Extra Trees,Correlation-pruned,0,0,0.395
+108,id_109,1,Extra Trees,Correlation-pruned,0,0,0.4125
+109,id_110,1,Extra Trees,Correlation-pruned,0,0,0.1425
+122,id_123,1,Extra Trees,Correlation-pruned,0,0,0.18
+125,id_126,1,Extra Trees,Correlation-pruned,0,0,0.205
+136,id_137,1,Extra Trees,Correlation-pruned,0,0,0.0525
+137,id_138,1,Extra Trees,Correlation-pruned,0,0,0.165
+155,id_156,1,Extra Trees,Correlation-pruned,0,1,0.5575
+156,id_157,1,Extra Trees,Correlation-pruned,0,0,0.1325
+159,id_160,1,Extra Trees,Correlation-pruned,0,1,0.515
+164,id_165,1,Extra Trees,Correlation-pruned,0,1,0.73
+166,id_167,1,Extra Trees,Correlation-pruned,0,0,0.1575
+167,id_168,1,Extra Trees,Correlation-pruned,0,0,0.255
+168,id_169,1,Extra Trees,Correlation-pruned,0,0,0.275
+172,id_173,1,Extra Trees,Correlation-pruned,0,0,0.0125
+3,id_4,1,Random Forest,Correlation-pruned,1,1,0.89
+5,id_6,1,Random Forest,Correlation-pruned,1,1,0.6375
+8,id_9,1,Random Forest,Correlation-pruned,1,1,0.755
+10,id_11,1,Random Forest,Correlation-pruned,1,1,0.9425
+23,id_24,1,Random Forest,Correlation-pruned,1,1,0.6825
+27,id_28,1,Random Forest,Correlation-pruned,1,1,0.8025
+29,id_30,1,Random Forest,Correlation-pruned,1,1,0.75
+33,id_34,1,Random Forest,Correlation-pruned,1,1,0.7825
+36,id_37,1,Random Forest,Correlation-pruned,1,1,0.715
+43,id_44,1,Random Forest,Correlation-pruned,1,0,0.445
+45,id_46,1,Random Forest,Correlation-pruned,1,1,0.525
+46,id_47,1,Random Forest,Correlation-pruned,1,1,0.56
+48,id_49,1,Random Forest,Correlation-pruned,1,1,0.5375
+50,id_51,1,Random Forest,Correlation-pruned,1,1,0.9525
+60,id_61,1,Random Forest,Correlation-pruned,1,1,0.6875
+76,id_77,1,Random Forest,Correlation-pruned,1,1,0.725
+79,id_80,1,Random Forest,Correlation-pruned,1,1,0.735
+87,id_88,1,Random Forest,Correlation-pruned,1,1,0.8875
+94,id_95,1,Random Forest,Correlation-pruned,0,0,0.21
+104,id_105,1,Random Forest,Correlation-pruned,0,0,0.4925
+106,id_107,1,Random Forest,Correlation-pruned,0,0,0.3725
+108,id_109,1,Random Forest,Correlation-pruned,0,0,0.4625
+109,id_110,1,Random Forest,Correlation-pruned,0,0,0.1925
+122,id_123,1,Random Forest,Correlation-pruned,0,0,0.1875
+125,id_126,1,Random Forest,Correlation-pruned,0,0,0.1875
+136,id_137,1,Random Forest,Correlation-pruned,0,0,0.09
+137,id_138,1,Random Forest,Correlation-pruned,0,0,0.1325
+155,id_156,1,Random Forest,Correlation-pruned,0,1,0.6725
+156,id_157,1,Random Forest,Correlation-pruned,0,0,0.115
+159,id_160,1,Random Forest,Correlation-pruned,0,1,0.63
+164,id_165,1,Random Forest,Correlation-pruned,0,1,0.77
+166,id_167,1,Random Forest,Correlation-pruned,0,0,0.22
+167,id_168,1,Random Forest,Correlation-pruned,0,0,0.2225
+168,id_169,1,Random Forest,Correlation-pruned,0,0,0.3325
+172,id_173,1,Random Forest,Correlation-pruned,0,0,0.0475
+3,id_4,1,SVM,Correlation-pruned,1,1,0.912959466022454
+5,id_6,1,SVM,Correlation-pruned,1,1,0.9154679324465116
+8,id_9,1,SVM,Correlation-pruned,1,1,0.9384621341656542
+10,id_11,1,SVM,Correlation-pruned,1,1,0.9752915680518055
+23,id_24,1,SVM,Correlation-pruned,1,1,0.9001602744484095
+27,id_28,1,SVM,Correlation-pruned,1,1,0.9515781948321876
+29,id_30,1,SVM,Correlation-pruned,1,1,0.9802157294213084
+33,id_34,1,SVM,Correlation-pruned,1,1,0.9618122740686215
+36,id_37,1,SVM,Correlation-pruned,1,1,0.944373793915504
+43,id_44,1,SVM,Correlation-pruned,1,0,0.4170638815435758
+45,id_46,1,SVM,Correlation-pruned,1,0,0.5168685407845895
+46,id_47,1,SVM,Correlation-pruned,1,0,0.509781163448534
+48,id_49,1,SVM,Correlation-pruned,1,1,0.8353370648947589
+50,id_51,1,SVM,Correlation-pruned,1,1,0.9751508901913732
+60,id_61,1,SVM,Correlation-pruned,1,1,0.9390291420702863
+76,id_77,1,SVM,Correlation-pruned,1,1,0.8222079175280729
+79,id_80,1,SVM,Correlation-pruned,1,1,0.9267902824768627
+87,id_88,1,SVM,Correlation-pruned,1,1,0.941550696344523
+94,id_95,1,SVM,Correlation-pruned,0,0,0.1651277183773606
+104,id_105,1,SVM,Correlation-pruned,0,0,0.24594753547574233
+106,id_107,1,SVM,Correlation-pruned,0,0,0.1833044482061777
+108,id_109,1,SVM,Correlation-pruned,0,0,0.3879621290214856
+109,id_110,1,SVM,Correlation-pruned,0,0,0.014552284365903983
+122,id_123,1,SVM,Correlation-pruned,0,0,0.012169540382388683
+125,id_126,1,SVM,Correlation-pruned,0,0,0.05400184355996048
+136,id_137,1,SVM,Correlation-pruned,0,0,0.028610300920852337
+137,id_138,1,SVM,Correlation-pruned,0,0,0.12175544028688079
+155,id_156,1,SVM,Correlation-pruned,0,1,0.7785193435789712
+156,id_157,1,SVM,Correlation-pruned,0,0,0.0033817590369347676
+159,id_160,1,SVM,Correlation-pruned,0,0,0.07173234846934466
+164,id_165,1,SVM,Correlation-pruned,0,1,0.8731419751057543
+166,id_167,1,SVM,Correlation-pruned,0,0,0.1477802874728387
+167,id_168,1,SVM,Correlation-pruned,0,0,0.04199372155061146
+168,id_169,1,SVM,Correlation-pruned,0,1,0.9745114435341092
+172,id_173,1,SVM,Correlation-pruned,0,0,0.03085365670737576
+2,id_3,2,TabPFN,Correlation-pruned,1,0,0.34501633048057556
+7,id_8,2,TabPFN,Correlation-pruned,1,0,0.018528258427977562
+9,id_10,2,TabPFN,Correlation-pruned,1,1,0.9878800511360168
+11,id_12,2,TabPFN,Correlation-pruned,1,1,0.9990051984786987
+19,id_20,2,TabPFN,Correlation-pruned,1,1,0.9979507327079773
+20,id_21,2,TabPFN,Correlation-pruned,1,1,0.9961780309677124
+22,id_23,2,TabPFN,Correlation-pruned,1,1,0.9813542366027832
+25,id_26,2,TabPFN,Correlation-pruned,1,1,0.9737445116043091
+35,id_36,2,TabPFN,Correlation-pruned,1,1,0.948547899723053
+39,id_40,2,TabPFN,Correlation-pruned,1,0,0.36077019572257996
+41,id_42,2,TabPFN,Correlation-pruned,1,0,0.18681329488754272
+44,id_45,2,TabPFN,Correlation-pruned,1,1,0.6317073106765747
+62,id_63,2,TabPFN,Correlation-pruned,1,1,0.9926835894584656
+69,id_70,2,TabPFN,Correlation-pruned,1,1,0.9958046674728394
+75,id_76,2,TabPFN,Correlation-pruned,1,1,0.980526864528656
+78,id_79,2,TabPFN,Correlation-pruned,1,1,0.9970527291297913
+80,id_81,2,TabPFN,Correlation-pruned,1,1,0.9972043037414551
+84,id_85,2,TabPFN,Correlation-pruned,1,1,0.9986175894737244
+91,id_92,2,TabPFN,Correlation-pruned,0,1,0.6870041489601135
+96,id_97,2,TabPFN,Correlation-pruned,0,0,0.0011156039545312524
+97,id_98,2,TabPFN,Correlation-pruned,0,0,0.0028605868574231863
+100,id_101,2,TabPFN,Correlation-pruned,0,0,0.004242020193487406
+107,id_108,2,TabPFN,Correlation-pruned,0,0,0.4714512825012207
+111,id_112,2,TabPFN,Correlation-pruned,0,0,0.00753044243901968
+121,id_122,2,TabPFN,Correlation-pruned,0,0,0.004839205648750067
+124,id_125,2,TabPFN,Correlation-pruned,0,0,0.0031210279557853937
+133,id_134,2,TabPFN,Correlation-pruned,0,0,0.0006944375345483422
+143,id_144,2,TabPFN,Correlation-pruned,0,0,0.0023824486415833235
+144,id_145,2,TabPFN,Correlation-pruned,0,0,0.0048120697028934956
+149,id_150,2,TabPFN,Correlation-pruned,0,0,0.04560410603880882
+150,id_151,2,TabPFN,Correlation-pruned,0,0,0.23870305716991425
+154,id_155,2,TabPFN,Correlation-pruned,0,0,0.0018795992946252227
+157,id_158,2,TabPFN,Correlation-pruned,0,0,0.10016300529241562
+160,id_161,2,TabPFN,Correlation-pruned,0,0,0.34393310546875
+173,id_174,2,TabPFN,Correlation-pruned,0,0,9.426532778888941e-05
+2,id_3,2,Extra Trees,Top 150,1,0,0.435
+7,id_8,2,Extra Trees,Top 150,1,0,0.2725
+9,id_10,2,Extra Trees,Top 150,1,1,0.7675
+11,id_12,2,Extra Trees,Top 150,1,1,0.93
+19,id_20,2,Extra Trees,Top 150,1,1,0.9125
+20,id_21,2,Extra Trees,Top 150,1,1,0.9375
+22,id_23,2,Extra Trees,Top 150,1,1,0.86
+25,id_26,2,Extra Trees,Top 150,1,1,0.715
+35,id_36,2,Extra Trees,Top 150,1,1,0.74
+39,id_40,2,Extra Trees,Top 150,1,0,0.495
+41,id_42,2,Extra Trees,Top 150,1,0,0.4125
+44,id_45,2,Extra Trees,Top 150,1,1,0.5275
+62,id_63,2,Extra Trees,Top 150,1,1,0.615
+69,id_70,2,Extra Trees,Top 150,1,1,0.5875
+75,id_76,2,Extra Trees,Top 150,1,1,0.515
+78,id_79,2,Extra Trees,Top 150,1,1,0.67
+80,id_81,2,Extra Trees,Top 150,1,1,0.75
+84,id_85,2,Extra Trees,Top 150,1,1,0.8
+91,id_92,2,Extra Trees,Top 150,0,1,0.6275
+96,id_97,2,Extra Trees,Top 150,0,0,0.0475
+97,id_98,2,Extra Trees,Top 150,0,0,0.065
+100,id_101,2,Extra Trees,Top 150,0,0,0.07
+107,id_108,2,Extra Trees,Top 150,0,1,0.5425
+111,id_112,2,Extra Trees,Top 150,0,0,0.2175
+121,id_122,2,Extra Trees,Top 150,0,0,0.2025
+124,id_125,2,Extra Trees,Top 150,0,0,0.23
+133,id_134,2,Extra Trees,Top 150,0,0,0.0875
+143,id_144,2,Extra Trees,Top 150,0,0,0.045
+144,id_145,2,Extra Trees,Top 150,0,0,0.0825
+149,id_150,2,Extra Trees,Top 150,0,0,0.255
+150,id_151,2,Extra Trees,Top 150,0,0,0.3425
+154,id_155,2,Extra Trees,Top 150,0,0,0.1
+157,id_158,2,Extra Trees,Top 150,0,0,0.22
+160,id_161,2,Extra Trees,Top 150,0,1,0.5125
+173,id_174,2,Extra Trees,Top 150,0,0,0.0025
+2,id_3,2,Random Forest,Correlation-pruned,1,1,0.585
+7,id_8,2,Random Forest,Correlation-pruned,1,0,0.26
+9,id_10,2,Random Forest,Correlation-pruned,1,1,0.8575
+11,id_12,2,Random Forest,Correlation-pruned,1,1,0.9075
+19,id_20,2,Random Forest,Correlation-pruned,1,1,0.9425
+20,id_21,2,Random Forest,Correlation-pruned,1,1,0.925
+22,id_23,2,Random Forest,Correlation-pruned,1,1,0.87
+25,id_26,2,Random Forest,Correlation-pruned,1,1,0.6325
+35,id_36,2,Random Forest,Correlation-pruned,1,1,0.6475
+39,id_40,2,Random Forest,Correlation-pruned,1,1,0.525
+41,id_42,2,Random Forest,Correlation-pruned,1,0,0.37
+44,id_45,2,Random Forest,Correlation-pruned,1,1,0.62
+62,id_63,2,Random Forest,Correlation-pruned,1,1,0.67
+69,id_70,2,Random Forest,Correlation-pruned,1,1,0.655
+75,id_76,2,Random Forest,Correlation-pruned,1,0,0.4425
+78,id_79,2,Random Forest,Correlation-pruned,1,1,0.6125
+80,id_81,2,Random Forest,Correlation-pruned,1,1,0.73
+84,id_85,2,Random Forest,Correlation-pruned,1,1,0.8225
+91,id_92,2,Random Forest,Correlation-pruned,0,1,0.5225
+96,id_97,2,Random Forest,Correlation-pruned,0,0,0.0575
+97,id_98,2,Random Forest,Correlation-pruned,0,0,0.065
+100,id_101,2,Random Forest,Correlation-pruned,0,0,0.085
+107,id_108,2,Random Forest,Correlation-pruned,0,0,0.4975
+111,id_112,2,Random Forest,Correlation-pruned,0,0,0.115
+121,id_122,2,Random Forest,Correlation-pruned,0,0,0.2525
+124,id_125,2,Random Forest,Correlation-pruned,0,0,0.1575
+133,id_134,2,Random Forest,Correlation-pruned,0,0,0.04
+143,id_144,2,Random Forest,Correlation-pruned,0,0,0.045
+144,id_145,2,Random Forest,Correlation-pruned,0,0,0.1125
+149,id_150,2,Random Forest,Correlation-pruned,0,0,0.355
+150,id_151,2,Random Forest,Correlation-pruned,0,0,0.4425
+154,id_155,2,Random Forest,Correlation-pruned,0,0,0.095
+157,id_158,2,Random Forest,Correlation-pruned,0,0,0.215
+160,id_161,2,Random Forest,Correlation-pruned,0,0,0.48
+173,id_174,2,Random Forest,Correlation-pruned,0,0,0.0575
+2,id_3,2,SVM,Top 150,1,0,0.12294125585477678
+7,id_8,2,SVM,Top 150,1,0,0.00912231369864874
+9,id_10,2,SVM,Top 150,1,1,0.9705860564082625
+11,id_12,2,SVM,Top 150,1,1,0.9902580374050537
+19,id_20,2,SVM,Top 150,1,1,0.9936620524404132
+20,id_21,2,SVM,Top 150,1,1,0.9855782217433933
+22,id_23,2,SVM,Top 150,1,1,0.9882013789899345
+25,id_26,2,SVM,Top 150,1,1,0.9811576577316272
+35,id_36,2,SVM,Top 150,1,1,0.9643138168652531
+39,id_40,2,SVM,Top 150,1,1,0.773519544661021
+41,id_42,2,SVM,Top 150,1,1,0.5326887436980516
+44,id_45,2,SVM,Top 150,1,1,0.6322239634828087
+62,id_63,2,SVM,Top 150,1,1,0.8787913599715195
+69,id_70,2,SVM,Top 150,1,1,0.9407242246435271
+75,id_76,2,SVM,Top 150,1,1,0.7794640219866074
+78,id_79,2,SVM,Top 150,1,1,0.9556585839039622
+80,id_81,2,SVM,Top 150,1,1,0.9814793770153811
+84,id_85,2,SVM,Top 150,1,1,0.9573143624710115
+91,id_92,2,SVM,Top 150,0,1,0.6320290758238633
+96,id_97,2,SVM,Top 150,0,0,0.008067799860125085
+97,id_98,2,SVM,Top 150,0,0,0.05275100290275893
+100,id_101,2,SVM,Top 150,0,0,0.018175780115640857
+107,id_108,2,SVM,Top 150,0,1,0.801843407963792
+111,id_112,2,SVM,Top 150,0,0,0.0839251117336504
+121,id_122,2,SVM,Top 150,0,0,0.005846684581877464
+124,id_125,2,SVM,Top 150,0,0,0.007393062032708914
+133,id_134,2,SVM,Top 150,0,0,0.0012567853154661656
+143,id_144,2,SVM,Top 150,0,0,0.0038546455737770106
+144,id_145,2,SVM,Top 150,0,0,0.0018910372687075908
+149,id_150,2,SVM,Top 150,0,1,0.7100712072420181
+150,id_151,2,SVM,Top 150,0,0,0.17822741735275696
+154,id_155,2,SVM,Top 150,0,0,0.023641109538408093
+157,id_158,2,SVM,Top 150,0,1,0.972713899203578
+160,id_161,2,SVM,Top 150,0,0,0.2031931358389366
+173,id_174,2,SVM,Top 150,0,0,0.016025487371016372
+0,id_1,3,TabPFN,Top 150,1,1,0.8757933378219604
+1,id_2,3,TabPFN,Top 150,1,1,0.9926254749298096
+4,id_5,3,TabPFN,Top 150,1,0,0.2848617136478424
+12,id_13,3,TabPFN,Top 150,1,1,0.8186520934104919
+15,id_16,3,TabPFN,Top 150,1,1,0.9981102347373962
+21,id_22,3,TabPFN,Top 150,1,1,0.992838442325592
+31,id_32,3,TabPFN,Top 150,1,1,0.9241210222244263
+32,id_33,3,TabPFN,Top 150,1,1,0.7862564921379089
+47,id_48,3,TabPFN,Top 150,1,1,0.6952203512191772
+52,id_53,3,TabPFN,Top 150,1,1,0.986694872379303
+56,id_57,3,TabPFN,Top 150,1,1,0.9824805855751038
+57,id_58,3,TabPFN,Top 150,1,1,0.9915145039558411
+58,id_59,3,TabPFN,Top 150,1,1,0.9850396513938904
+64,id_65,3,TabPFN,Top 150,1,1,0.9832119941711426
+66,id_67,3,TabPFN,Top 150,1,1,0.9933803081512451
+74,id_75,3,TabPFN,Top 150,1,1,0.9899829626083374
+77,id_78,3,TabPFN,Top 150,1,1,0.9981935024261475
+88,id_89,3,TabPFN,Top 150,1,1,0.9966365694999695
+95,id_96,3,TabPFN,Top 150,0,0,0.003873784327879548
+101,id_102,3,TabPFN,Top 150,0,0,0.017464028671383858
+103,id_104,3,TabPFN,Top 150,0,0,0.04716801643371582
+116,id_117,3,TabPFN,Top 150,0,0,0.0017724625067785382
+117,id_118,3,TabPFN,Top 150,0,0,0.004261866677552462
+120,id_121,3,TabPFN,Top 150,0,0,0.08519567549228668
+123,id_124,3,TabPFN,Top 150,0,0,0.02841297537088394
+131,id_132,3,TabPFN,Top 150,0,0,0.037476249039173126
+132,id_133,3,TabPFN,Top 150,0,0,0.11714654415845871
+138,id_139,3,TabPFN,Top 150,0,0,0.0007535011973232031
+145,id_146,3,TabPFN,Top 150,0,0,0.22400830686092377
+146,id_147,3,TabPFN,Top 150,0,0,0.01580631174147129
+148,id_149,3,TabPFN,Top 150,0,0,0.007175690494477749
+152,id_153,3,TabPFN,Top 150,0,0,0.015504566952586174
+158,id_159,3,TabPFN,Top 150,0,0,0.012507024221122265
+162,id_163,3,TabPFN,Top 150,0,0,0.18094727396965027
+171,id_172,3,TabPFN,Top 150,0,0,0.0009289029985666275
+0,id_1,3,Extra Trees,Correlation-pruned,1,1,0.5575
+1,id_2,3,Extra Trees,Correlation-pruned,1,1,0.9575
+4,id_5,3,Extra Trees,Correlation-pruned,1,0,0.4325
+12,id_13,3,Extra Trees,Correlation-pruned,1,1,0.6975
+15,id_16,3,Extra Trees,Correlation-pruned,1,1,0.95
+21,id_22,3,Extra Trees,Correlation-pruned,1,1,0.9225
+31,id_32,3,Extra Trees,Correlation-pruned,1,1,0.745
+32,id_33,3,Extra Trees,Correlation-pruned,1,1,0.6975
+47,id_48,3,Extra Trees,Correlation-pruned,1,1,0.725
+52,id_53,3,Extra Trees,Correlation-pruned,1,1,0.87
+56,id_57,3,Extra Trees,Correlation-pruned,1,1,0.86
+57,id_58,3,Extra Trees,Correlation-pruned,1,1,0.87
+58,id_59,3,Extra Trees,Correlation-pruned,1,1,0.8475
+64,id_65,3,Extra Trees,Correlation-pruned,1,1,0.6025
+66,id_67,3,Extra Trees,Correlation-pruned,1,1,0.65
+74,id_75,3,Extra Trees,Correlation-pruned,1,1,0.505
+77,id_78,3,Extra Trees,Correlation-pruned,1,1,0.7625
+88,id_89,3,Extra Trees,Correlation-pruned,1,1,0.9025
+95,id_96,3,Extra Trees,Correlation-pruned,0,0,0.08
+101,id_102,3,Extra Trees,Correlation-pruned,0,0,0.2675
+103,id_104,3,Extra Trees,Correlation-pruned,0,0,0.2025
+116,id_117,3,Extra Trees,Correlation-pruned,0,0,0.1825
+117,id_118,3,Extra Trees,Correlation-pruned,0,0,0.1175
+120,id_121,3,Extra Trees,Correlation-pruned,0,0,0.295
+123,id_124,3,Extra Trees,Correlation-pruned,0,0,0.195
+131,id_132,3,Extra Trees,Correlation-pruned,0,0,0.12
+132,id_133,3,Extra Trees,Correlation-pruned,0,0,0.245
+138,id_139,3,Extra Trees,Correlation-pruned,0,0,0.0225
+145,id_146,3,Extra Trees,Correlation-pruned,0,0,0.2475
+146,id_147,3,Extra Trees,Correlation-pruned,0,0,0.145
+148,id_149,3,Extra Trees,Correlation-pruned,0,0,0.1525
+152,id_153,3,Extra Trees,Correlation-pruned,0,0,0.1
+158,id_159,3,Extra Trees,Correlation-pruned,0,0,0.19
+162,id_163,3,Extra Trees,Correlation-pruned,0,0,0.45
+171,id_172,3,Extra Trees,Correlation-pruned,0,0,0.055
+0,id_1,3,Random Forest,All 425,1,1,0.635
+1,id_2,3,Random Forest,All 425,1,1,0.9275
+4,id_5,3,Random Forest,All 425,1,0,0.4875
+12,id_13,3,Random Forest,All 425,1,1,0.6825
+15,id_16,3,Random Forest,All 425,1,1,0.92
+21,id_22,3,Random Forest,All 425,1,1,0.8425
+31,id_32,3,Random Forest,All 425,1,1,0.6975
+32,id_33,3,Random Forest,All 425,1,1,0.6075
+47,id_48,3,Random Forest,All 425,1,1,0.605
+52,id_53,3,Random Forest,All 425,1,1,0.86
+56,id_57,3,Random Forest,All 425,1,1,0.8075
+57,id_58,3,Random Forest,All 425,1,1,0.84
+58,id_59,3,Random Forest,All 425,1,1,0.83
+64,id_65,3,Random Forest,All 425,1,1,0.5275
+66,id_67,3,Random Forest,All 425,1,1,0.55
+74,id_75,3,Random Forest,All 425,1,1,0.545
+77,id_78,3,Random Forest,All 425,1,1,0.76
+88,id_89,3,Random Forest,All 425,1,1,0.7875
+95,id_96,3,Random Forest,All 425,0,0,0.1475
+101,id_102,3,Random Forest,All 425,0,0,0.245
+103,id_104,3,Random Forest,All 425,0,0,0.2425
+116,id_117,3,Random Forest,All 425,0,0,0.155
+117,id_118,3,Random Forest,All 425,0,0,0.2025
+120,id_121,3,Random Forest,All 425,0,0,0.3375
+123,id_124,3,Random Forest,All 425,0,0,0.1775
+131,id_132,3,Random Forest,All 425,0,0,0.19
+132,id_133,3,Random Forest,All 425,0,0,0.31
+138,id_139,3,Random Forest,All 425,0,0,0.0625
+145,id_146,3,Random Forest,All 425,0,0,0.3725
+146,id_147,3,Random Forest,All 425,0,0,0.1575
+148,id_149,3,Random Forest,All 425,0,0,0.26
+152,id_153,3,Random Forest,All 425,0,0,0.2525
+158,id_159,3,Random Forest,All 425,0,0,0.2775
+162,id_163,3,Random Forest,All 425,0,0,0.48
+171,id_172,3,Random Forest,All 425,0,0,0.1425
+0,id_1,3,SVM,All 425,1,1,0.8922934621278723
+1,id_2,3,SVM,All 425,1,1,0.9323273784181617
+4,id_5,3,SVM,All 425,1,0,0.17345993110402103
+12,id_13,3,SVM,All 425,1,1,0.9254035407752514
+15,id_16,3,SVM,All 425,1,1,0.9872058923065408
+21,id_22,3,SVM,All 425,1,1,0.9917378089124517
+31,id_32,3,SVM,All 425,1,1,0.9228663763126008
+32,id_33,3,SVM,All 425,1,1,0.8810393547860038
+47,id_48,3,SVM,All 425,1,1,0.8565042027602467
+52,id_53,3,SVM,All 425,1,1,0.9622403479598737
+56,id_57,3,SVM,All 425,1,1,0.9834033600632291
+57,id_58,3,SVM,All 425,1,1,0.9898815388823541
+58,id_59,3,SVM,All 425,1,1,0.9764126620703654
+64,id_65,3,SVM,All 425,1,1,0.5570863497691806
+66,id_67,3,SVM,All 425,1,1,0.7449991941637096
+74,id_75,3,SVM,All 425,1,0,0.3015993885198995
+77,id_78,3,SVM,All 425,1,1,0.7945141563398904
+88,id_89,3,SVM,All 425,1,1,0.9456010823530627
+95,id_96,3,SVM,All 425,0,0,0.20120245587225236
+101,id_102,3,SVM,All 425,0,0,0.4106946350727134
+103,id_104,3,SVM,All 425,0,0,0.10064167671984219
+116,id_117,3,SVM,All 425,0,0,0.006412916079276165
+117,id_118,3,SVM,All 425,0,0,0.04386345122211811
+120,id_121,3,SVM,All 425,0,0,0.057864019167904526
+123,id_124,3,SVM,All 425,0,0,0.009877271792507763
+131,id_132,3,SVM,All 425,0,0,0.020267464347853686
+132,id_133,3,SVM,All 425,0,0,0.04382542973956299
+138,id_139,3,SVM,All 425,0,0,0.0036339527476635077
+145,id_146,3,SVM,All 425,0,0,0.19288711275412435
+146,id_147,3,SVM,All 425,0,0,0.016767868088687975
+148,id_149,3,SVM,All 425,0,0,0.025209616998719445
+152,id_153,3,SVM,All 425,0,0,0.05647472577472638
+158,id_159,3,SVM,All 425,0,0,0.06876434395234898
+162,id_163,3,SVM,All 425,0,0,0.31881688372736955
+171,id_172,3,SVM,All 425,0,0,0.022067266059408775
+6,id_7,4,TabPFN,Top 100,1,1,0.8750797510147095
+17,id_18,4,TabPFN,Top 100,1,1,0.9939464330673218
+24,id_25,4,TabPFN,Top 100,1,1,0.9364811182022095
+26,id_27,4,TabPFN,Top 100,1,1,0.836192786693573
+28,id_29,4,TabPFN,Top 100,1,1,0.9904982447624207
+34,id_35,4,TabPFN,Top 100,1,1,0.9374870657920837
+37,id_38,4,TabPFN,Top 100,1,1,0.9407582879066467
+38,id_39,4,TabPFN,Top 100,1,1,0.9295246005058289
+42,id_43,4,TabPFN,Top 100,1,0,0.22598722577095032
+49,id_50,4,TabPFN,Top 100,1,1,0.9485315084457397
+51,id_52,4,TabPFN,Top 100,1,1,0.9866383671760559
+55,id_56,4,TabPFN,Top 100,1,1,0.9970411062240601
+65,id_66,4,TabPFN,Top 100,1,1,0.9844731688499451
+68,id_69,4,TabPFN,Top 100,1,1,0.9937955141067505
+71,id_72,4,TabPFN,Top 100,1,1,0.9843139052391052
+72,id_73,4,TabPFN,Top 100,1,1,0.9201671481132507
+85,id_86,4,TabPFN,Top 100,1,1,0.9961433410644531
+86,id_87,4,TabPFN,Top 100,1,1,0.9937836527824402
+90,id_91,4,TabPFN,Top 100,0,1,0.9320125579833984
+92,id_93,4,TabPFN,Top 100,0,0,0.026425998657941818
+99,id_100,4,TabPFN,Top 100,0,0,0.0011702670017257333
+102,id_103,4,TabPFN,Top 100,0,0,0.0015191431157290936
+105,id_106,4,TabPFN,Top 100,0,1,0.5440018177032471
+110,id_111,4,TabPFN,Top 100,0,0,0.05861688032746315
+114,id_115,4,TabPFN,Top 100,0,0,0.0019396130228415132
+118,id_119,4,TabPFN,Top 100,0,0,0.1304560899734497
+119,id_120,4,TabPFN,Top 100,0,0,0.4066320061683655
+127,id_128,4,TabPFN,Top 100,0,0,0.3164079785346985
+135,id_136,4,TabPFN,Top 100,0,0,0.012072700075805187
+139,id_140,4,TabPFN,Top 100,0,0,0.0018653395818546414
+140,id_141,4,TabPFN,Top 100,0,0,0.029849719256162643
+142,id_143,4,TabPFN,Top 100,0,0,0.016630161553621292
+151,id_152,4,TabPFN,Top 100,0,0,0.286604642868042
+165,id_166,4,TabPFN,Top 100,0,0,0.08320097625255585
+170,id_171,4,TabPFN,Top 100,0,0,0.08700142800807953
+6,id_7,4,Extra Trees,Correlation-pruned,1,1,0.7025
+17,id_18,4,Extra Trees,Correlation-pruned,1,1,0.9675
+24,id_25,4,Extra Trees,Correlation-pruned,1,1,0.705
+26,id_27,4,Extra Trees,Correlation-pruned,1,1,0.65
+28,id_29,4,Extra Trees,Correlation-pruned,1,1,0.9225
+34,id_35,4,Extra Trees,Correlation-pruned,1,1,0.725
+37,id_38,4,Extra Trees,Correlation-pruned,1,1,0.745
+38,id_39,4,Extra Trees,Correlation-pruned,1,1,0.7825
+42,id_43,4,Extra Trees,Correlation-pruned,1,0,0.4275
+49,id_50,4,Extra Trees,Correlation-pruned,1,1,0.7775
+51,id_52,4,Extra Trees,Correlation-pruned,1,1,0.9125
+55,id_56,4,Extra Trees,Correlation-pruned,1,1,0.9525
+65,id_66,4,Extra Trees,Correlation-pruned,1,1,0.715
+68,id_69,4,Extra Trees,Correlation-pruned,1,1,0.785
+71,id_72,4,Extra Trees,Correlation-pruned,1,1,0.6425
+72,id_73,4,Extra Trees,Correlation-pruned,1,1,0.545
+85,id_86,4,Extra Trees,Correlation-pruned,1,1,0.865
+86,id_87,4,Extra Trees,Correlation-pruned,1,1,0.935
+90,id_91,4,Extra Trees,Correlation-pruned,0,1,0.64
+92,id_93,4,Extra Trees,Correlation-pruned,0,0,0.145
+99,id_100,4,Extra Trees,Correlation-pruned,0,0,0.0575
+102,id_103,4,Extra Trees,Correlation-pruned,0,0,0.15
+105,id_106,4,Extra Trees,Correlation-pruned,0,1,0.5725
+110,id_111,4,Extra Trees,Correlation-pruned,0,0,0.19
+114,id_115,4,Extra Trees,Correlation-pruned,0,0,0.095
+118,id_119,4,Extra Trees,Correlation-pruned,0,0,0.335
+119,id_120,4,Extra Trees,Correlation-pruned,0,0,0.3275
+127,id_128,4,Extra Trees,Correlation-pruned,0,0,0.315
+135,id_136,4,Extra Trees,Correlation-pruned,0,0,0.15
+139,id_140,4,Extra Trees,Correlation-pruned,0,0,0.055
+140,id_141,4,Extra Trees,Correlation-pruned,0,0,0.2675
+142,id_143,4,Extra Trees,Correlation-pruned,0,0,0.245
+151,id_152,4,Extra Trees,Correlation-pruned,0,0,0.39
+165,id_166,4,Extra Trees,Correlation-pruned,0,0,0.3225
+170,id_171,4,Extra Trees,Correlation-pruned,0,0,0.2875
+6,id_7,4,Random Forest,Top 100,1,1,0.67
+17,id_18,4,Random Forest,Top 100,1,1,0.9225
+24,id_25,4,Random Forest,Top 100,1,1,0.6625
+26,id_27,4,Random Forest,Top 100,1,1,0.6125
+28,id_29,4,Random Forest,Top 100,1,1,0.94
+34,id_35,4,Random Forest,Top 100,1,1,0.6825
+37,id_38,4,Random Forest,Top 100,1,1,0.7075
+38,id_39,4,Random Forest,Top 100,1,1,0.6975
+42,id_43,4,Random Forest,Top 100,1,0,0.3825
+49,id_50,4,Random Forest,Top 100,1,1,0.7325
+51,id_52,4,Random Forest,Top 100,1,1,0.955
+55,id_56,4,Random Forest,Top 100,1,1,0.9725
+65,id_66,4,Random Forest,Top 100,1,1,0.7225
+68,id_69,4,Random Forest,Top 100,1,1,0.8175
+71,id_72,4,Random Forest,Top 100,1,1,0.6725
+72,id_73,4,Random Forest,Top 100,1,0,0.455
+85,id_86,4,Random Forest,Top 100,1,1,0.785
+86,id_87,4,Random Forest,Top 100,1,1,0.845
+90,id_91,4,Random Forest,Top 100,0,1,0.615
+92,id_93,4,Random Forest,Top 100,0,0,0.1225
+99,id_100,4,Random Forest,Top 100,0,0,0.03
+102,id_103,4,Random Forest,Top 100,0,0,0.1025
+105,id_106,4,Random Forest,Top 100,0,1,0.565
+110,id_111,4,Random Forest,Top 100,0,0,0.1175
+114,id_115,4,Random Forest,Top 100,0,0,0.0875
+118,id_119,4,Random Forest,Top 100,0,0,0.43
+119,id_120,4,Random Forest,Top 100,0,0,0.4075
+127,id_128,4,Random Forest,Top 100,0,0,0.41
+135,id_136,4,Random Forest,Top 100,0,0,0.0875
+139,id_140,4,Random Forest,Top 100,0,0,0.095
+140,id_141,4,Random Forest,Top 100,0,0,0.3725
+142,id_143,4,Random Forest,Top 100,0,0,0.305
+151,id_152,4,Random Forest,Top 100,0,0,0.3975
+165,id_166,4,Random Forest,Top 100,0,0,0.2575
+170,id_171,4,Random Forest,Top 100,0,0,0.255
+6,id_7,4,SVM,Top 150,1,1,0.7325612703706467
+17,id_18,4,SVM,Top 150,1,1,0.9719209658402453
+24,id_25,4,SVM,Top 150,1,1,0.9457453840575932
+26,id_27,4,SVM,Top 150,1,1,0.9617513626180709
+28,id_29,4,SVM,Top 150,1,1,0.9867764879454587
+34,id_35,4,SVM,Top 150,1,1,0.9656743473248477
+37,id_38,4,SVM,Top 150,1,1,0.9647910040906306
+38,id_39,4,SVM,Top 150,1,1,0.9810618966386402
+42,id_43,4,SVM,Top 150,1,0,0.3598936421752011
+49,id_50,4,SVM,Top 150,1,1,0.9739566151948531
+51,id_52,4,SVM,Top 150,1,1,0.9730225316257538
+55,id_56,4,SVM,Top 150,1,1,0.9909135257961496
+65,id_66,4,SVM,Top 150,1,1,0.962609697780918
+68,id_69,4,SVM,Top 150,1,1,0.9704657274139323
+71,id_72,4,SVM,Top 150,1,1,0.9415861583282036
+72,id_73,4,SVM,Top 150,1,1,0.9181368794747332
+85,id_86,4,SVM,Top 150,1,1,0.9552944753530992
+86,id_87,4,SVM,Top 150,1,1,0.9437087528079255
+90,id_91,4,SVM,Top 150,0,1,0.9657909349721477
+92,id_93,4,SVM,Top 150,0,0,0.06829868832962108
+99,id_100,4,SVM,Top 150,0,0,0.003003608907367085
+102,id_103,4,SVM,Top 150,0,0,0.059416256470601087
+105,id_106,4,SVM,Top 150,0,1,0.542918007213243
+110,id_111,4,SVM,Top 150,0,0,0.07553518217136211
+114,id_115,4,SVM,Top 150,0,0,0.01166843533795292
+118,id_119,4,SVM,Top 150,0,0,0.12029126923373122
+119,id_120,4,SVM,Top 150,0,0,0.13934416929836396
+127,id_128,4,SVM,Top 150,0,0,0.06256112629253362
+135,id_136,4,SVM,Top 150,0,0,0.20679343554379662
+139,id_140,4,SVM,Top 150,0,0,0.010411077581593667
+140,id_141,4,SVM,Top 150,0,0,0.060191735959243015
+142,id_143,4,SVM,Top 150,0,0,0.02279642902091447
+151,id_152,4,SVM,Top 150,0,0,0.4598753121643504
+165,id_166,4,SVM,Top 150,0,0,0.4303934951260975
+170,id_171,4,SVM,Top 150,0,0,0.0479429113126322
+13,id_14,5,TabPFN,Correlation-pruned,1,1,0.831852912902832
+14,id_15,5,TabPFN,Correlation-pruned,1,1,0.9980853796005249
+16,id_17,5,TabPFN,Correlation-pruned,1,1,0.9865074753761292
+18,id_19,5,TabPFN,Correlation-pruned,1,1,0.9991601705551147
+30,id_31,5,TabPFN,Correlation-pruned,1,1,0.9451891779899597
+40,id_41,5,TabPFN,Correlation-pruned,1,0,0.20982828736305237
+53,id_54,5,TabPFN,Correlation-pruned,1,1,0.9886976480484009
+54,id_55,5,TabPFN,Correlation-pruned,1,1,0.9955071210861206
+59,id_60,5,TabPFN,Correlation-pruned,1,1,0.9771863222122192
+61,id_62,5,TabPFN,Correlation-pruned,1,1,0.9956768155097961
+63,id_64,5,TabPFN,Correlation-pruned,1,1,0.9748150110244751
+67,id_68,5,TabPFN,Correlation-pruned,1,1,0.9955124258995056
+70,id_71,5,TabPFN,Correlation-pruned,1,1,0.968102216720581
+73,id_74,5,TabPFN,Correlation-pruned,1,1,0.9831401705741882
+81,id_82,5,TabPFN,Correlation-pruned,1,1,0.9992464780807495
+82,id_83,5,TabPFN,Correlation-pruned,1,1,0.9993879795074463
+83,id_84,5,TabPFN,Correlation-pruned,1,1,0.9991562962532043
+89,id_90,5,TabPFN,Correlation-pruned,0,0,0.009611161425709724
+93,id_94,5,TabPFN,Correlation-pruned,0,0,0.048918817192316055
+98,id_99,5,TabPFN,Correlation-pruned,0,0,0.00991773046553135
+112,id_113,5,TabPFN,Correlation-pruned,0,0,0.001580296317115426
+113,id_114,5,TabPFN,Correlation-pruned,0,0,0.0017885284032672644
+115,id_116,5,TabPFN,Correlation-pruned,0,0,0.0055228848941624165
+126,id_127,5,TabPFN,Correlation-pruned,0,0,0.02631429210305214
+128,id_129,5,TabPFN,Correlation-pruned,0,0,0.3505270481109619
+129,id_130,5,TabPFN,Correlation-pruned,0,0,0.38940301537513733
+130,id_131,5,TabPFN,Correlation-pruned,0,0,0.007492495700716972
+134,id_135,5,TabPFN,Correlation-pruned,0,0,0.008047658018767834
+141,id_142,5,TabPFN,Correlation-pruned,0,0,0.49932700395584106
+147,id_148,5,TabPFN,Correlation-pruned,0,0,0.055450305342674255
+153,id_154,5,TabPFN,Correlation-pruned,0,0,0.29350870847702026
+161,id_162,5,TabPFN,Correlation-pruned,0,0,0.32993391156196594
+163,id_164,5,TabPFN,Correlation-pruned,0,1,0.8451020121574402
+169,id_170,5,TabPFN,Correlation-pruned,0,0,0.004163381643593311
+13,id_14,5,Extra Trees,Correlation-pruned,1,1,0.675
+14,id_15,5,Extra Trees,Correlation-pruned,1,1,0.93
+16,id_17,5,Extra Trees,Correlation-pruned,1,1,0.785
+18,id_19,5,Extra Trees,Correlation-pruned,1,1,0.985
+30,id_31,5,Extra Trees,Correlation-pruned,1,1,0.77
+40,id_41,5,Extra Trees,Correlation-pruned,1,0,0.345
+53,id_54,5,Extra Trees,Correlation-pruned,1,1,0.875
+54,id_55,5,Extra Trees,Correlation-pruned,1,1,0.8975
+59,id_60,5,Extra Trees,Correlation-pruned,1,1,0.8225
+61,id_62,5,Extra Trees,Correlation-pruned,1,1,0.755
+63,id_64,5,Extra Trees,Correlation-pruned,1,1,0.5325
+67,id_68,5,Extra Trees,Correlation-pruned,1,1,0.8
+70,id_71,5,Extra Trees,Correlation-pruned,1,1,0.505
+73,id_74,5,Extra Trees,Correlation-pruned,1,1,0.595
+81,id_82,5,Extra Trees,Correlation-pruned,1,1,0.85
+82,id_83,5,Extra Trees,Correlation-pruned,1,1,0.8775
+83,id_84,5,Extra Trees,Correlation-pruned,1,1,0.8375
+89,id_90,5,Extra Trees,Correlation-pruned,0,0,0.1025
+93,id_94,5,Extra Trees,Correlation-pruned,0,0,0.205
+98,id_99,5,Extra Trees,Correlation-pruned,0,0,0.115
+112,id_113,5,Extra Trees,Correlation-pruned,0,0,0.0375
+113,id_114,5,Extra Trees,Correlation-pruned,0,0,0.105
+115,id_116,5,Extra Trees,Correlation-pruned,0,0,0.12
+126,id_127,5,Extra Trees,Correlation-pruned,0,0,0.2775
+128,id_129,5,Extra Trees,Correlation-pruned,0,0,0.3825
+129,id_130,5,Extra Trees,Correlation-pruned,0,0,0.335
+130,id_131,5,Extra Trees,Correlation-pruned,0,0,0.13
+134,id_135,5,Extra Trees,Correlation-pruned,0,0,0.1
+141,id_142,5,Extra Trees,Correlation-pruned,0,0,0.4875
+147,id_148,5,Extra Trees,Correlation-pruned,0,0,0.1625
+153,id_154,5,Extra Trees,Correlation-pruned,0,0,0.385
+161,id_162,5,Extra Trees,Correlation-pruned,0,0,0.4325
+163,id_164,5,Extra Trees,Correlation-pruned,0,1,0.6075
+169,id_170,5,Extra Trees,Correlation-pruned,0,0,0.1625
+13,id_14,5,Random Forest,Correlation-pruned,1,1,0.78
+14,id_15,5,Random Forest,Correlation-pruned,1,1,0.92
+16,id_17,5,Random Forest,Correlation-pruned,1,1,0.7075
+18,id_19,5,Random Forest,Correlation-pruned,1,1,0.9675
+30,id_31,5,Random Forest,Correlation-pruned,1,1,0.7825
+40,id_41,5,Random Forest,Correlation-pruned,1,0,0.3575
+53,id_54,5,Random Forest,Correlation-pruned,1,1,0.905
+54,id_55,5,Random Forest,Correlation-pruned,1,1,0.8875
+59,id_60,5,Random Forest,Correlation-pruned,1,1,0.8075
+61,id_62,5,Random Forest,Correlation-pruned,1,1,0.725
+63,id_64,5,Random Forest,Correlation-pruned,1,1,0.55
+67,id_68,5,Random Forest,Correlation-pruned,1,1,0.77
+70,id_71,5,Random Forest,Correlation-pruned,1,1,0.5025
+73,id_74,5,Random Forest,Correlation-pruned,1,1,0.6875
+81,id_82,5,Random Forest,Correlation-pruned,1,1,0.825
+82,id_83,5,Random Forest,Correlation-pruned,1,1,0.865
+83,id_84,5,Random Forest,Correlation-pruned,1,1,0.85
+89,id_90,5,Random Forest,Correlation-pruned,0,0,0.14
+93,id_94,5,Random Forest,Correlation-pruned,0,0,0.165
+98,id_99,5,Random Forest,Correlation-pruned,0,0,0.1675
+112,id_113,5,Random Forest,Correlation-pruned,0,0,0.0425
+113,id_114,5,Random Forest,Correlation-pruned,0,0,0.1025
+115,id_116,5,Random Forest,Correlation-pruned,0,0,0.14
+126,id_127,5,Random Forest,Correlation-pruned,0,0,0.245
+128,id_129,5,Random Forest,Correlation-pruned,0,0,0.34
+129,id_130,5,Random Forest,Correlation-pruned,0,0,0.2325
+130,id_131,5,Random Forest,Correlation-pruned,0,0,0.1425
+134,id_135,5,Random Forest,Correlation-pruned,0,0,0.1125
+141,id_142,5,Random Forest,Correlation-pruned,0,1,0.505
+147,id_148,5,Random Forest,Correlation-pruned,0,0,0.07
+153,id_154,5,Random Forest,Correlation-pruned,0,0,0.3925
+161,id_162,5,Random Forest,Correlation-pruned,0,0,0.44
+163,id_164,5,Random Forest,Correlation-pruned,0,1,0.665
+169,id_170,5,Random Forest,Correlation-pruned,0,0,0.1975
+13,id_14,5,SVM,Correlation-pruned,1,1,0.687379539356153
+14,id_15,5,SVM,Correlation-pruned,1,1,0.9920515722879466
+16,id_17,5,SVM,Correlation-pruned,1,1,0.987642441979656
+18,id_19,5,SVM,Correlation-pruned,1,1,0.9924281159675107
+30,id_31,5,SVM,Correlation-pruned,1,1,0.9336605084557938
+40,id_41,5,SVM,Correlation-pruned,1,0,0.19923710497879468
+53,id_54,5,SVM,Correlation-pruned,1,1,0.9846156548328032
+54,id_55,5,SVM,Correlation-pruned,1,1,0.9914420887830958
+59,id_60,5,SVM,Correlation-pruned,1,1,0.9888008344801331
+61,id_62,5,SVM,Correlation-pruned,1,1,0.9879515638583718
+63,id_64,5,SVM,Correlation-pruned,1,1,0.6544550262205174
+67,id_68,5,SVM,Correlation-pruned,1,1,0.9895999629619379
+70,id_71,5,SVM,Correlation-pruned,1,0,0.22347073700572365
+73,id_74,5,SVM,Correlation-pruned,1,0,0.2905340656392374
+81,id_82,5,SVM,Correlation-pruned,1,1,0.9776691493431462
+82,id_83,5,SVM,Correlation-pruned,1,1,0.9919848481359334
+83,id_84,5,SVM,Correlation-pruned,1,1,0.9723990952975807
+89,id_90,5,SVM,Correlation-pruned,0,0,0.09181024181760385
+93,id_94,5,SVM,Correlation-pruned,0,0,0.05805661511215404
+98,id_99,5,SVM,Correlation-pruned,0,0,0.024595376585472135
+112,id_113,5,SVM,Correlation-pruned,0,0,0.0361269573647487
+113,id_114,5,SVM,Correlation-pruned,0,0,0.0044819062251868595
+115,id_116,5,SVM,Correlation-pruned,0,0,0.010140331434568044
+126,id_127,5,SVM,Correlation-pruned,0,0,0.016177395689485594
+128,id_129,5,SVM,Correlation-pruned,0,1,0.8872522198850094
+129,id_130,5,SVM,Correlation-pruned,0,0,0.30531961352494585
+130,id_131,5,SVM,Correlation-pruned,0,0,0.00815515768841262
+134,id_135,5,SVM,Correlation-pruned,0,0,0.005449334302548931
+141,id_142,5,SVM,Correlation-pruned,0,1,0.8498707682998815
+147,id_148,5,SVM,Correlation-pruned,0,1,0.9877465652024698
+153,id_154,5,SVM,Correlation-pruned,0,0,0.11373431251046498
+161,id_162,5,SVM,Correlation-pruned,0,1,0.9876432326165732
+163,id_164,5,SVM,Correlation-pruned,0,1,0.8247882071109209
+169,id_170,5,SVM,Correlation-pruned,0,0,0.007690171916609578

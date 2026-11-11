@@ -1,0 +1,12 @@
+# DARWIN research / model-development dependencies
+# Install the application dependencies first:
+#   python -m pip install -r requirements.txt
+# Then install this file:
+#   python -m pip install -r requirements-research.txt
+# Tested environment: Python 3.13.1
+tabpfn==9.2.0
+torch==2.14.1
+shap==0.54.1
+scipy==1.17.0
+matplotlib==3.11.2
+seaborn==0.13.2

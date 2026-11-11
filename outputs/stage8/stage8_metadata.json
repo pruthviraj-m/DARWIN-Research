@@ -1,0 +1,36 @@
+{
+  "stage": 8,
+  "dataset": "C:\\Users\\pruth\\OneDrive\\Desktop\\DARWIN-Research\\data\\data.csv",
+  "participants": 174,
+  "features_after_removing_total_time": 425,
+  "class_counts": {
+    "1": 89,
+    "0": 85
+  },
+  "outer_cv": "5-fold stratified",
+  "inner_cv": "3-fold stratified",
+  "strategies": [
+    "All 425",
+    "Top 150",
+    "Top 100",
+    "Correlation-pruned"
+  ],
+  "models": [
+    "TabPFN",
+    "Extra Trees",
+    "Random Forest",
+    "SVM"
+  ],
+  "correlation_threshold": 0.85,
+  "selection_metric": "inner balanced accuracy",
+  "outer_test_used_for_feature_selection": false,
+  "outer_test_used_for_strategy_selection": false,
+  "runtime_seconds": 1371.22,
+  "limitations": [
+    "Nested cross-validation is internal validation, not external validation.",
+    "The small dataset limits precision of performance estimates.",
+    "The best strategy is selected separately for each model within each outer fold.",
+    "Fold-level results are not independent observations; do not use a naive t-test across folds.",
+    "No clinical diagnostic claim is justified by these results."
+  ]
+}

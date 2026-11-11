@@ -1,0 +1,287 @@
+{
+  "selected_features": [
+    "air_time16",
+    "pressure_var19",
+    "air_time15",
+    "mean_gmrt7",
+    "num_of_pendown19",
+    "paper_time9",
+    "pressure_var5",
+    "paper_time23",
+    "disp_index23",
+    "max_x_extension25",
+    "air_time24",
+    "air_time13",
+    "air_time22",
+    "mean_jerk_in_air17",
+    "num_of_pendown9",
+    "mean_speed_in_air23",
+    "pressure_mean9",
+    "paper_time8",
+    "disp_index22",
+    "paper_time6",
+    "paper_time15",
+    "pressure_var4",
+    "air_time6",
+    "air_time23",
+    "pressure_mean7",
+    "gmrt_on_paper17",
+    "pressure_mean8",
+    "air_time5",
+    "air_time3",
+    "paper_time22",
+    "air_time9",
+    "mean_speed_on_paper10",
+    "paper_time11",
+    "air_time7",
+    "paper_time25",
+    "max_y_extension25",
+    "air_time2",
+    "air_time4",
+    "max_y_extension21",
+    "pressure_mean10",
+    "air_time21",
+    "disp_index17",
+    "mean_speed_on_paper3",
+    "paper_time13",
+    "air_time19",
+    "paper_time20",
+    "mean_gmrt23",
+    "max_x_extension21",
+    "mean_gmrt19",
+    "pressure_mean6",
+    "disp_index6",
+    "mean_speed_on_paper8",
+    "mean_jerk_in_air7",
+    "disp_index9",
+    "num_of_pendown3",
+    "mean_speed_in_air25",
+    "disp_index15",
+    "air_time8",
+    "pressure_mean19",
+    "paper_time12",
+    "disp_index19",
+    "mean_jerk_on_paper24",
+    "disp_index2",
+    "mean_acc_on_paper21",
+    "paper_time17",
+    "pressure_mean14",
+    "mean_gmrt14",
+    "mean_speed_on_paper22",
+    "paper_time3",
+    "air_time10",
+    "pressure_mean17",
+    "air_time17",
+    "max_y_extension19",
+    "pressure_mean23",
+    "max_y_extension5",
+    "num_of_pendown7",
+    "pressure_mean1",
+    "disp_index25",
+    "max_y_extension9",
+    "num_of_pendown23",
+    "mean_jerk_on_paper3",
+    "num_of_pendown5",
+    "pressure_mean2",
+    "num_of_pendown20",
+    "air_time20",
+    "max_y_extension4",
+    "pressure_mean13",
+    "mean_speed_in_air19",
+    "disp_index14",
+    "paper_time19",
+    "mean_gmrt11",
+    "pressure_mean21",
+    "gmrt_on_paper1",
+    "disp_index7",
+    "num_of_pendown2",
+    "mean_gmrt8",
+    "pressure_mean20",
+    "pressure_mean16",
+    "disp_index5",
+    "pressure_mean24",
+    "paper_time24",
+    "gmrt_on_paper2",
+    "gmrt_on_paper25",
+    "mean_acc_in_air2",
+    "num_of_pendown15",
+    "mean_acc_on_paper2",
+    "mean_gmrt12",
+    "pressure_mean18",
+    "num_of_pendown8",
+    "air_time12",
+    "mean_speed_on_paper20",
+    "paper_time18",
+    "max_y_extension23",
+    "mean_speed_on_paper16",
+    "pressure_mean22",
+    "max_x_extension14",
+    "max_y_extension22",
+    "paper_time14"
+  ],
+  "candidate_pool_size": 150,
+  "correlation_threshold": 0.85,
+  "method": "Extra Trees ranking on full training data, top 150, greedy Spearman pruning",
+  "removed_redundant_features": [
+    {
+      "feature": "gmrt_in_air7",
+      "removed_because_of": "mean_gmrt7",
+      "absolute_spearman_correlation": 0.8871966012506122
+    },
+    {
+      "feature": "gmrt_in_air17",
+      "removed_because_of": "mean_jerk_in_air17",
+      "absolute_spearman_correlation": 0.9136493328245753
+    },
+    {
+      "feature": "mean_acc_in_air17",
+      "removed_because_of": "mean_jerk_in_air17",
+      "absolute_spearman_correlation": 0.9996377946477895
+    },
+    {
+      "feature": "mean_speed_in_air17",
+      "removed_because_of": "mean_jerk_in_air17",
+      "absolute_spearman_correlation": 0.9160959274678088
+    },
+    {
+      "feature": "gmrt_in_air23",
+      "removed_because_of": "mean_speed_in_air23",
+      "absolute_spearman_correlation": 0.9796010192655774
+    },
+    {
+      "feature": "mean_gmrt17",
+      "removed_because_of": "mean_jerk_in_air17",
+      "absolute_spearman_correlation": 0.8719547129408682
+    },
+    {
+      "feature": "mean_speed_in_air7",
+      "removed_because_of": "mean_gmrt7",
+      "absolute_spearman_correlation": 0.875351094000934
+    },
+    {
+      "feature": "paper_time7",
+      "removed_because_of": "mean_gmrt7",
+      "absolute_spearman_correlation": 0.9180777495652559
+    },
+    {
+      "feature": "gmrt_on_paper7",
+      "removed_because_of": "mean_gmrt7",
+      "absolute_spearman_correlation": 0.9431597890588517
+    },
+    {
+      "feature": "gmrt_on_paper10",
+      "removed_because_of": "mean_speed_on_paper10",
+      "absolute_spearman_correlation": 0.9835710242254496
+    },
+    {
+      "feature": "paper_time10",
+      "removed_because_of": "paper_time11",
+      "absolute_spearman_correlation": 0.8799336625562266
+    },
+    {
+      "feature": "mean_speed_on_paper7",
+      "removed_because_of": "mean_gmrt7",
+      "absolute_spearman_correlation": 0.9057667118466463
+    },
+    {
+      "feature": "pressure_mean4",
+      "removed_because_of": "pressure_var4",
+      "absolute_spearman_correlation": 0.9181613060112463
+    },
+    {
+      "feature": "gmrt_on_paper8",
+      "removed_because_of": "mean_speed_on_paper8",
+      "absolute_spearman_correlation": 0.9909517002579858
+    },
+    {
+      "feature": "pressure_mean5",
+      "removed_because_of": "pressure_var5",
+      "absolute_spearman_correlation": 0.8693849099455676
+    },
+    {
+      "feature": "disp_index20",
+      "removed_because_of": "paper_time20",
+      "absolute_spearman_correlation": 0.8688738272448071
+    },
+    {
+      "feature": "gmrt_on_paper23",
+      "removed_because_of": "mean_gmrt23",
+      "absolute_spearman_correlation": 0.9204430638567378
+    },
+    {
+      "feature": "paper_time2",
+      "removed_because_of": "disp_index2",
+      "absolute_spearman_correlation": 0.888995535261548
+    },
+    {
+      "feature": "mean_speed_on_paper17",
+      "removed_because_of": "gmrt_on_paper17",
+      "absolute_spearman_correlation": 0.948188688486312
+    },
+    {
+      "feature": "mean_speed_on_paper23",
+      "removed_because_of": "mean_gmrt23",
+      "absolute_spearman_correlation": 0.9071224428656536
+    },
+    {
+      "feature": "mean_speed_on_paper11",
+      "removed_because_of": "mean_speed_on_paper10",
+      "absolute_spearman_correlation": 0.9158647138084721
+    },
+    {
+      "feature": "mean_gmrt25",
+      "removed_because_of": "mean_speed_in_air25",
+      "absolute_spearman_correlation": 0.9359519645430878
+    },
+    {
+      "feature": "mean_acc_in_air7",
+      "removed_because_of": "mean_jerk_in_air7",
+      "absolute_spearman_correlation": 0.9990045217945943
+    },
+    {
+      "feature": "gmrt_in_air25",
+      "removed_because_of": "mean_speed_in_air25",
+      "absolute_spearman_correlation": 0.9799449688669625
+    },
+    {
+      "feature": "gmrt_on_paper11",
+      "removed_because_of": "mean_speed_on_paper10",
+      "absolute_spearman_correlation": 0.8871937363960358
+    },
+    {
+      "feature": "pressure_mean11",
+      "removed_because_of": "pressure_mean10",
+      "absolute_spearman_correlation": 0.8817789172867587
+    },
+    {
+      "feature": "mean_jerk_on_paper21",
+      "removed_because_of": "mean_acc_on_paper21",
+      "absolute_spearman_correlation": 0.918769118593669
+    },
+    {
+      "feature": "disp_index8",
+      "removed_because_of": "paper_time8",
+      "absolute_spearman_correlation": 0.860511168159372
+    },
+    {
+      "feature": "gmrt_on_paper22",
+      "removed_because_of": "mean_speed_on_paper22",
+      "absolute_spearman_correlation": 0.9642718411211014
+    },
+    {
+      "feature": "pressure_var21",
+      "removed_because_of": "pressure_mean21",
+      "absolute_spearman_correlation": 0.9167503090305271
+    },
+    {
+      "feature": "gmrt_on_paper19",
+      "removed_because_of": "mean_gmrt19",
+      "absolute_spearman_correlation": 0.8515352876512381
+    },
+    {
+      "feature": "disp_index3",
+      "removed_because_of": "paper_time3",
+      "absolute_spearman_correlation": 0.9491302652227451
+    }
+  ]
+}

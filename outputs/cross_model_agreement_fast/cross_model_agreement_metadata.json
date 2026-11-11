@@ -1,0 +1,20 @@
+{
+    "experiment": "Fast descriptive cross-model feature agreement",
+    "participants": 174,
+    "candidate_pool_size": 50,
+    "candidate_pool_source": "outputs\\feature_stability\\stable_feature_candidates.csv",
+    "outer_cv": "RepeatedStratifiedKFold",
+    "n_splits": 5,
+    "n_repeats": 2,
+    "inner_validation_size": 0.25,
+    "permutation_repeats": 1,
+    "models": [
+        "TabPFN",
+        "Extra Trees",
+        "Random Forest",
+        "SVM"
+    ],
+    "total_model_fits": 40,
+    "total_execution_time_seconds": 2279.594269514084,
+    "limitation": "Candidate pool comes from prior exploratory feature selection. This is descriptive agreement analysis, not an unbiased estimate of final model performance or independent external validation."
+}

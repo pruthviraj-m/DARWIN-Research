@@ -1,0 +1,91 @@
+{
+    "experiment": "DARWIN Feature Ablation",
+    "dataset": "data\\data.csv",
+    "participants": 174,
+    "original_features": 450,
+    "configurations": {
+        "A_Baseline_All_Features": {
+            "feature_count": 450,
+            "features_removed": []
+        },
+        "B_Remove_Total_Time": {
+            "feature_count": 425,
+            "features_removed": [
+                "total_time1",
+                "total_time2",
+                "total_time3",
+                "total_time4",
+                "total_time5",
+                "total_time6",
+                "total_time7",
+                "total_time8",
+                "total_time9",
+                "total_time10",
+                "total_time11",
+                "total_time12",
+                "total_time13",
+                "total_time14",
+                "total_time15",
+                "total_time16",
+                "total_time17",
+                "total_time18",
+                "total_time19",
+                "total_time20",
+                "total_time21",
+                "total_time22",
+                "total_time23",
+                "total_time24",
+                "total_time25"
+            ]
+        },
+        "C_Remove_Air_Time": {
+            "feature_count": 425,
+            "features_removed": [
+                "air_time1",
+                "air_time2",
+                "air_time3",
+                "air_time4",
+                "air_time5",
+                "air_time6",
+                "air_time7",
+                "air_time8",
+                "air_time9",
+                "air_time10",
+                "air_time11",
+                "air_time12",
+                "air_time13",
+                "air_time14",
+                "air_time15",
+                "air_time16",
+                "air_time17",
+                "air_time18",
+                "air_time19",
+                "air_time20",
+                "air_time21",
+                "air_time22",
+                "air_time23",
+                "air_time24",
+                "air_time25"
+            ]
+        }
+    },
+    "models": [
+        "TabPFN",
+        "Extra Trees",
+        "Random Forest",
+        "SVM"
+    ],
+    "cross_validation": {
+        "method": "RepeatedStratifiedKFold",
+        "splits": 5,
+        "repeats": 5,
+        "total_folds_per_model_configuration": 25,
+        "random_state": 42
+    },
+    "target_mapping": {
+        "H": 0,
+        "P": 1
+    },
+    "total_model_fits": 300,
+    "execution_time_seconds": 4532.2146899700165
+}

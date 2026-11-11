@@ -1,0 +1,16 @@
+{
+    "project": "DARWIN Research",
+    "evaluation": "Repeated Stratified 5-Fold Cross-Validation",
+    "number_of_repeats": 5,
+    "number_of_folds": 5,
+    "total_folds_per_model": 25,
+    "random_state": 42,
+    "participants": 174,
+    "features": 450,
+    "device": "CPU",
+    "target_mapping": {
+        "H": 0,
+        "P": 1
+    },
+    "total_execution_time_seconds": 1819.6084451675415
+}

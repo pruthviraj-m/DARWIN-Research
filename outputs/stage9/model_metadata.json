@@ -1,0 +1,38 @@
+{
+  "project": "DARWIN - Handwriting-Based Alzheimer's Disease Classification",
+  "stage": 9,
+  "participants_used_for_final_fit": 174,
+  "class_mapping": {
+    "H": 0,
+    "P": 1
+  },
+  "input_features": 425,
+  "selected_features": 118,
+  "feature_selection_method": "Extra Trees ranking on full training data, top 150, greedy Spearman pruning",
+  "correlation_threshold": 0.85,
+  "models": {
+    "TabPFN": {
+      "artifact": "tabpfn_model.joblib",
+      "parameters": {
+        "device": "cpu"
+      }
+    },
+    "Random Forest": {
+      "artifact": "random_forest_model.joblib",
+      "parameters": {
+        "n_estimators": 400,
+        "max_features": "sqrt",
+        "class_weight": "balanced",
+        "random_state": 42
+      }
+    }
+  },
+  "software": {
+    "python": "3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]",
+    "scikit_learn": "1.9.1",
+    "pandas": "3.1.1",
+    "numpy": "2.5.4"
+  },
+  "runtime_seconds": 4.55,
+  "validation_note": "Models were fitted on all available participants. This fit does not estimate generalisation. Use Stage 8 nested-CV outer-fold results for internal validation; independent external validation is still needed."
+}

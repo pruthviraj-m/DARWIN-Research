@@ -1,0 +1,31 @@
+{
+  "stage": 10,
+  "participants": 174,
+  "input_features": 425,
+  "outer_cv": "5-fold stratified",
+  "inner_cv": "3-fold stratified",
+  "models": [
+    "TabPFN",
+    "Extra Trees",
+    "Random Forest",
+    "SVM"
+  ],
+  "strategies": [
+    "All 425",
+    "Top 150",
+    "Top 100",
+    "Correlation-pruned"
+  ],
+  "selection_metric": "inner balanced accuracy",
+  "outer_predictions_saved": true,
+  "validation_scope": "Internal nested cross-validation only",
+  "important_limitations": [
+    "No independent external dataset was available.",
+    "Stage 10 reuses the same dataset and selection procedure as Stage 8; it is not independent confirmation.",
+    "Pooled OOF predictions combine predictions from different fold-trained models.",
+    "Fold-level metrics are not independent observations; avoid naive significance tests.",
+    "Calibration bins are descriptive and small-sample estimates.",
+    "This is research, not a clinical diagnostic validation."
+  ],
+  "runtime_seconds": 1303.45
+}
